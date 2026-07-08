@@ -1,8 +1,6 @@
 # TÓM TẮT SÁCH KHOA HỌC TỰ NHIÊN 9
 ### (Bộ sách "Kết nối tri thức với cuộc sống")
 
-*Tài liệu tóm tắt bằng lời văn riêng, giữ nguyên khái niệm cốt lõi, cấu trúc từng bài học, kèm ví dụ và minh hoạ trực quan dễ hiểu.*
-
 ## Mục lục
 
 **Phần Vật lí**
