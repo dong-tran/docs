@@ -1,6 +1,8 @@
 # TÓM TẮT SÁCH KHOA HỌC TỰ NHIÊN 9
 ### (Bộ sách "Kết nối tri thức với cuộc sống")
 
+*Tài liệu tóm tắt bằng lời văn riêng, giữ nguyên khái niệm cốt lõi, cấu trúc từng bài học, kèm ví dụ và minh hoạ trực quan dễ hiểu.*
+
 ## Mục lục
 
 **Phần Vật lí**
@@ -32,13 +34,13 @@
 
 **Động năng (Wđ):** năng lượng vật có được do **chuyển động**.
 
-**Công thức:** **Wđ = (1/2) × m × v²** (m: khối lượng - kg; v: tốc độ - m/s; Wđ: đơn vị jun J)
+**Công thức:** $$W_đ = \frac{1}{2} \times m \times v^2$$ (m: khối lượng - kg; v: tốc độ - m/s; Wđ: đơn vị jun J)
 
 > Ví dụ: xe càng chạy nhanh hoặc càng nặng thì động năng càng lớn, va chạm càng nguy hiểm — đây là lí do cần giảm tốc độ khi lái xe để đảm bảo an toàn.
 
 **Thế năng trọng trường (Wt):** năng lượng vật có được do **vị trí của vật so với mặt đất** (độ cao).
 
-**Công thức:** **Wt = m × g × h** (g ≈ 9,8 hoặc 10 m/s²; h: độ cao - m)
+**Công thức:** $$W_t = m \times g \times h$$ (g ≈ 9,8 hoặc 10 m/s²; h: độ cao - m)
 
 > Ví dụ: quả táo trên cây càng cao thì thế năng càng lớn — khi rơi xuống, thế năng chuyển hoá dần thành động năng.
 
@@ -50,7 +52,7 @@
 
 **Cơ năng (W):** tổng của động năng và thế năng của vật.
 
-**W = Wđ + Wt**
+$$W = W_đ + W_t$$
 
 **Định luật bảo toàn cơ năng:** khi một vật chỉ chịu tác dụng của trọng lực (bỏ qua ma sát, lực cản), **cơ năng của vật được bảo toàn** — động năng và thế năng có thể chuyển hoá qua lại lẫn nhau nhưng tổng của chúng không đổi.
 
@@ -64,14 +66,14 @@
 
 **Công cơ học (A):** thực hiện khi có lực tác dụng vào vật làm vật **di chuyển theo phương của lực**.
 
-**Công thức:** **A = F × s** (F: lực tác dụng - N; s: quãng đường dịch chuyển theo hướng của lực - m; A: đơn vị jun J)
+**Công thức:** $$A = F \times s$$ (F: lực tác dụng - N; s: quãng đường dịch chuyển theo hướng của lực - m; A: đơn vị jun J)
 
-> Ví dụ: kéo một vật đi 5m bằng lực 20N (theo phương chuyển động) → A = 20×5 = 100 J.
+> Ví dụ: kéo một vật đi 5m bằng lực 20N (theo phương chuyển động) → $A = 20 \times 5 = 100$ J.
 > Lưu ý: nếu vật không di chuyển (s=0) hoặc lực vuông góc với hướng di chuyển thì công cơ học bằng 0 (ví dụ: xách một vật đi ngang mà không nâng lên, trọng lực không sinh công vì vuông góc với hướng đi).
 
 **Công suất (P):** đại lượng đặc trưng cho **tốc độ thực hiện công**.
 
-**Công thức:** **P = A / t** (A: công thực hiện - J; t: thời gian thực hiện công - s; P: đơn vị watt W)
+**Công thức:** $$P = \frac{A}{t}$$ (A: công thực hiện - J; t: thời gian thực hiện công - s; P: đơn vị watt W)
 
 > Ví dụ: hai người cùng nâng một vật lên độ cao như nhau (thực hiện công như nhau), nhưng người nào làm nhanh hơn (thời gian ít hơn) thì có công suất lớn hơn — làm việc "khoẻ" hơn theo nghĩa vật lí.
 
@@ -165,9 +167,9 @@ Nội dung trọng tâm: khúc xạ ánh sáng, phản xạ toàn phần và ứ
 
 **Định luật Ohm:** Cường độ dòng điện chạy qua một dây dẫn **tỉ lệ thuận** với hiệu điện thế đặt vào hai đầu dây và **tỉ lệ nghịch** với điện trở của dây.
 
-**Công thức:** **I = U / R**  (I: cường độ dòng điện - A; U: hiệu điện thế - V; R: điện trở - Ω)
+**Công thức:** $$I = \frac{U}{R}$$  (I: cường độ dòng điện - A; U: hiệu điện thế - V; R: điện trở - Ω)
 
-> Ví dụ: một điện trở 10Ω được đặt vào hiệu điện thế 20V → I = 20/10 = 2A.
+> Ví dụ: một điện trở 10Ω được đặt vào hiệu điện thế 20V → $I = \frac{20}{10} = 2$A.
 
 **Sự phụ thuộc của điện trở dây dẫn:** điện trở tỉ lệ thuận với chiều dài dây, tỉ lệ nghịch với tiết diện dây, và phụ thuộc vào chất liệu (điện trở suất) làm dây dẫn.
 
@@ -176,16 +178,16 @@ Nội dung trọng tâm: khúc xạ ánh sáng, phản xạ toàn phần và ứ
 ## Bài 12. Đoạn mạch nối tiếp, song song
 
 **Đoạn mạch nối tiếp (gồm R1, R2):**
-- I = I₁ = I₂
-- U = U₁ + U₂
-- **Điện trở tương đương: R = R₁ + R₂** (điện trở tương đương của mạch nối tiếp luôn lớn hơn từng điện trở thành phần)
+- $I = I_1 = I_2$
+- $U = U_1 + U_2$
+- **Điện trở tương đương:** $$R = R_1 + R_2$$ (điện trở tương đương của mạch nối tiếp luôn lớn hơn từng điện trở thành phần)
 
 **Đoạn mạch song song (gồm R1, R2):**
-- U = U₁ = U₂
-- I = I₁ + I₂
-- **Điện trở tương đương: 1/R = 1/R₁ + 1/R₂** (điện trở tương đương của mạch song song luôn nhỏ hơn mỗi điện trở thành phần)
+- $U = U_1 = U_2$
+- $I = I_1 + I_2$
+- **Điện trở tương đương:** $$\frac{1}{R} = \frac{1}{R_1} + \frac{1}{R_2}$$ (điện trở tương đương của mạch song song luôn nhỏ hơn mỗi điện trở thành phần)
 
-> Ví dụ: hai điện trở 6Ω và 3Ω mắc nối tiếp → R = 6+3 = 9Ω. Mắc song song → 1/R = 1/6+1/3 = 1/2 → R = 2Ω.
+> Ví dụ: hai điện trở 6Ω và 3Ω mắc nối tiếp → $R = 6+3 = 9$Ω. Mắc song song → $\frac{1}{R} = \frac{1}{6}+\frac{1}{3} = \frac{1}{2}$ → $R = 2$Ω.
 
 ---
 
@@ -193,13 +195,15 @@ Nội dung trọng tâm: khúc xạ ánh sáng, phản xạ toàn phần và ứ
 
 **Công suất điện (P):** đại lượng đặc trưng cho tốc độ tiêu thụ điện năng của một thiết bị.
 
-**Công thức:** **P = U × I** (P: công suất - W; U: hiệu điện thế - V; I: cường độ dòng điện - A)
+**Công thức:** $$P = U \times I$$ (P: công suất - W; U: hiệu điện thế - V; I: cường độ dòng điện - A)
 
 **Năng lượng điện tiêu thụ (điện năng, A):**
 
-**A = P × t = U × I × t** (t: thời gian sử dụng - s; A: đơn vị jun J, hoặc thực tế thường dùng **kWh** = số "điện")
+$$A = P \times t = U \times I \times t$$
 
-> Ví dụ: một bóng đèn có công suất 60W, sử dụng liên tục trong 5 giờ → A = 60 × 5 = 300 Wh = 0,3 kWh (0,3 "số điện").
+(t: thời gian sử dụng - s; A: đơn vị jun J, hoặc thực tế thường dùng **kWh** = số "điện")
+
+> Ví dụ: một bóng đèn có công suất 60W, sử dụng liên tục trong 5 giờ → $A = 60 \times 5 = 300$ Wh = 0,3 kWh (0,3 "số điện").
 
 **Ứng dụng thực tế:** đây chính là cơ sở để tính **tiền điện** hàng tháng — số kWh tiêu thụ của mỗi thiết bị điện trong gia đình được cộng dồn và tính theo giá điện hiện hành.
 
@@ -587,11 +591,11 @@ Nội dung trọng tâm: tài nguyên khoáng sản từ vỏ Trái Đất, khai
 
 **Quy luật phân li:** Trong quá trình phát sinh giao tử, mỗi cặp allele **phân li về mỗi giao tử**, giao tử chỉ chứa một allele của cặp.
 
-> Ví dụ kinh điển: lai hai cây đậu Hà Lan thuần chủng hoa đỏ (AA) và hoa trắng (aa) → thế hệ F1 toàn hoa đỏ (Aa, tính trạng đỏ là trội). Cho F1 tự thụ phấn → F2 phân li theo tỉ lệ xấp xỉ **3 đỏ : 1 trắng**.
+> Ví dụ kinh điển: lai hai cây đậu Hà Lan thuần chủng hoa đỏ ($AA$) và hoa trắng ($aa$) → thế hệ F1 toàn hoa đỏ ($Aa$, tính trạng đỏ là trội). Cho F1 tự thụ phấn → F2 phân li theo tỉ lệ xấp xỉ **3 đỏ : 1 trắng**.
 
 **Quy luật phân li độc lập:** Các cặp allele quy định các tính trạng khác nhau **phân li độc lập** với nhau trong quá trình hình thành giao tử (khi các gene nằm trên các cặp nhiễm sắc thể khác nhau).
 
-> Ứng dụng: dùng để dự đoán tỉ lệ kiểu hình đời con khi lai bố mẹ có nhiều cặp tính trạng khác nhau (ví dụ lai 2 tính trạng cho tỉ lệ đặc trưng 9:3:3:1 ở đời F2).
+> Ứng dụng: dùng để dự đoán tỉ lệ kiểu hình đời con khi lai bố mẹ có nhiều cặp tính trạng khác nhau (ví dụ lai 2 tính trạng cho tỉ lệ đặc trưng $9:3:3:1$ ở đời F2).
 
 ---
 
@@ -650,27 +654,27 @@ Nội dung trọng tâm: quy luật phân li và phân li độc lập của Men
 
 **Nhiễm sắc thể (NST):** cấu trúc mang gene, nằm trong nhân tế bào, được cấu tạo từ DNA và protein.
 
-**Bộ nhiễm sắc thể:** ở loài sinh sản hữu tính, tế bào sinh dưỡng (tế bào thường) mang bộ NST **lưỡng bội (2n)** — tồn tại thành từng cặp tương đồng (một chiếc có nguồn gốc từ bố, một chiếc từ mẹ); giao tử (tinh trùng, trứng) mang bộ NST **đơn bội (n)**.
+**Bộ nhiễm sắc thể:** ở loài sinh sản hữu tính, tế bào sinh dưỡng (tế bào thường) mang bộ NST **lưỡng bội ($2n$)** — tồn tại thành từng cặp tương đồng (một chiếc có nguồn gốc từ bố, một chiếc từ mẹ); giao tử (tinh trùng, trứng) mang bộ NST **đơn bội ($n$)**.
 
-> Ví dụ: bộ NST lưỡng bội của người là 2n = 46 (23 cặp).
+> Ví dụ: bộ NST lưỡng bội của người là $2n = 46$ (23 cặp).
 
 ---
 
 ## Bài 43. Nguyên phân và giảm phân
 
-**Nguyên phân:** hình thức phân chia của tế bào sinh dưỡng, từ 1 tế bào mẹ (2n) tạo ra **2 tế bào con** có bộ NST **giống hệt** nhau và giống tế bào mẹ (2n) — giúp cơ thể sinh trưởng, phát triển, và thay thế tế bào cũ/tổn thương.
+**Nguyên phân:** hình thức phân chia của tế bào sinh dưỡng, từ 1 tế bào mẹ ($2n$) tạo ra **2 tế bào con** có bộ NST **giống hệt** nhau và giống tế bào mẹ ($2n$) — giúp cơ thể sinh trưởng, phát triển, và thay thế tế bào cũ/tổn thương.
 
-**Giảm phân:** hình thức phân chia đặc biệt xảy ra ở tế bào sinh dục, từ 1 tế bào mẹ (2n) qua 2 lần phân chia liên tiếp tạo ra **4 tế bào con** mang bộ NST **đơn bội (n)** — đây là cơ sở hình thành giao tử.
+**Giảm phân:** hình thức phân chia đặc biệt xảy ra ở tế bào sinh dục, từ 1 tế bào mẹ ($2n$) qua 2 lần phân chia liên tiếp tạo ra **4 tế bào con** mang bộ NST **đơn bội ($n$)** — đây là cơ sở hình thành giao tử.
 
-**Ý nghĩa của giảm phân kết hợp thụ tinh:** giao tử đơn bội (n) của bố kết hợp với giao tử đơn bội (n) của mẹ qua thụ tinh → khôi phục lại bộ NST lưỡng bội (2n) ở đời con, đồng thời tạo ra sự tổ hợp lại vật chất di truyền, làm tăng tính đa dạng di truyền ở thế hệ sau.
+**Ý nghĩa của giảm phân kết hợp thụ tinh:** giao tử đơn bội ($n$) của bố kết hợp với giao tử đơn bội ($n$) của mẹ qua thụ tinh → khôi phục lại bộ NST lưỡng bội ($2n$) ở đời con, đồng thời tạo ra sự tổ hợp lại vật chất di truyền, làm tăng tính đa dạng di truyền ở thế hệ sau.
 
 ---
 
 ## Bài 44. Nhiễm sắc thể giới tính và cơ chế xác định giới tính
 
-**Nhiễm sắc thể giới tính:** cặp NST quy định giới tính của cá thể (ở người: **XX** ở nữ, **XY** ở nam), khác với các cặp **NST thường** còn lại.
+**Nhiễm sắc thể giới tính:** cặp NST quy định giới tính của cá thể (ở người: $XX$ ở nữ, $XY$ ở nam), khác với các cặp **NST thường** còn lại.
 
-**Cơ chế xác định giới tính ở người:** mẹ luôn cho giao tử mang NST X; bố cho giao tử mang NST X hoặc Y với tỉ lệ ngang nhau → nếu trứng kết hợp với tinh trùng mang X → con gái (XX); nếu kết hợp với tinh trùng mang Y → con trai (XY).
+**Cơ chế xác định giới tính ở người:** mẹ luôn cho giao tử mang NST X; bố cho giao tử mang NST X hoặc Y với tỉ lệ ngang nhau → nếu trứng kết hợp với tinh trùng mang X → con gái ($XX$); nếu kết hợp với tinh trùng mang Y → con trai ($XY$).
 
 > Do đó, tỉ lệ con trai : con gái sinh ra trên lí thuyết là xấp xỉ **1:1**, và **giới tính của con được quyết định bởi tinh trùng của người bố** (mang X hay Y).
 

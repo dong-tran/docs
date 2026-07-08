@@ -16,7 +16,7 @@
 
 ## Bài 18. Hàm số y = ax²
 
-**Định nghĩa:** Hàm số có dạng **y = ax²** (a ≠ 0) là hàm số bậc hai đơn giản nhất, xác định với mọi x ∈ R.
+**Định nghĩa:** Hàm số có dạng **$y = ax^2$** ($a \neq 0$) là hàm số bậc hai đơn giản nhất, xác định với mọi $x \in \mathbb{R}$.
 
 **Tính chất biến thiên (khi a > 0):**
 - Hàm số **nghịch biến** khi x < 0 (x tăng thì y giảm).
@@ -25,7 +25,7 @@
 
 **Khi a < 0** thì chiều biến thiên **ngược lại**: đồng biến khi x < 0, nghịch biến khi x > 0, giá trị lớn nhất là 0.
 
-**Đồ thị hàm số y = ax²** là một đường cong gọi là **parabol**, đỉnh tại gốc toạ độ O, nhận trục Oy làm **trục đối xứng**.
+**Đồ thị hàm số $y = ax^2$** là một đường cong gọi là **parabol**, đỉnh tại gốc toạ độ O, nhận trục Oy làm **trục đối xứng**.
 - Nếu a > 0: parabol **quay bề lõm lên trên** (như hình chữ U).
 - Nếu a < 0: parabol **quay bề lõm xuống dưới** (như hình chữ U ngược).
 
@@ -35,39 +35,39 @@
 
 ## Bài 19. Phương trình bậc hai một ẩn
 
-**Dạng tổng quát:** **ax² + bx + c = 0** (a ≠ 0)
+**Dạng tổng quát:** **$ax^2 + bx + c = 0$** ($a \neq 0$)
 
-**Công thức nghiệm (dùng biệt thức Δ = b² − 4ac):**
+**Công thức nghiệm (dùng biệt thức $\Delta = b^2 - 4ac$):**
 
 | Δ | Số nghiệm | Công thức nghiệm |
 |---|---|---|
-| Δ > 0 | 2 nghiệm phân biệt | x₁,₂ = (−b ± √Δ) / 2a |
-| Δ = 0 | 1 nghiệm kép | x = −b / 2a |
-| Δ < 0 | vô nghiệm | (không có x thoả mãn) |
+| $\Delta > 0$ | 2 nghiệm phân biệt | $x_{1,2} = (-b \pm \sqrt{\Delta}) / 2a$ |
+| $\Delta = 0$ | 1 nghiệm kép | $x = -b / 2a$ |
+| $\Delta < 0$ | vô nghiệm | (không có x thoả mãn) |
 
-> Ví dụ: Giải x² − 5x + 6 = 0
-> Δ = 25 − 24 = 1 > 0 → x₁ = (5+1)/2 = 3; x₂ = (5−1)/2 = 2
+> Ví dụ: Giải $x^2 - 5x + 6 = 0$
+> $\Delta = 25 - 24 = 1 > 0 \to x_1 = (5+1)/2 = 3$; $x_2 = (5-1)/2 = 2$
 
-**Công thức nghiệm thu gọn** (khi b = 2b' chẵn), dùng Δ' = b'² − ac:
-x₁,₂ = (−b' ± √Δ') / a — giúp tính toán gọn hơn khi b chia hết cho 2.
+**Công thức nghiệm thu gọn** (khi $b = 2b'$ chẵn), dùng $\Delta' = b'^2 - ac$:
+$x_{1,2} = (-b' \pm \sqrt{\Delta'}) / a$ — giúp tính toán gọn hơn khi b chia hết cho 2.
 
 ---
 
 ## Bài 20. Định lí Viète và ứng dụng
 
-**Định lí Viète:** Nếu phương trình ax² + bx + c = 0 (a≠0) có hai nghiệm x₁, x₂ thì:
+**Định lí Viète:** Nếu phương trình $ax^2 + bx + c = 0$ ($a \neq 0$) có hai nghiệm $x_1, x_2$ thì:
 
-**x₁ + x₂ = −b/a**   và   **x₁ × x₂ = c/a**
+**$x_1 + x_2 = -b/a$**   và   **$x_1 \times x_2 = c/a$**
 
-> Ví dụ: phương trình x² − 5x + 6 = 0 có x₁+x₂ = 5, x₁×x₂ = 6 — khớp với hai nghiệm 2 và 3 tìm được ở trên (2+3=5, 2×3=6).
+> Ví dụ: phương trình $x^2 - 5x + 6 = 0$ có $x_1+x_2 = 5$, $x_1 \times x_2 = 6$ — khớp với hai nghiệm 2 và 3 tìm được ở trên ($2+3=5$, $2 \times 3=6$).
 
 **Ứng dụng 1 — nhẩm nghiệm nhanh:**
-- Nếu a + b + c = 0 → phương trình có nghiệm **x₁ = 1**, **x₂ = c/a**.
-- Nếu a − b + c = 0 → phương trình có nghiệm **x₁ = −1**, **x₂ = −c/a**.
+- Nếu $a + b + c = 0 \to$ phương trình có nghiệm **$x_1 = 1$**, **$x_2 = c/a$**.
+- Nếu $a - b + c = 0 \to$ phương trình có nghiệm **$x_1 = -1$**, **$x_2 = -c/a$**.
 
-**Ứng dụng 2 — tìm hai số khi biết tổng và tích:** nếu hai số có tổng S và tích P thì chúng là hai nghiệm của phương trình **x² − Sx + P = 0** (điều kiện có nghiệm: S² − 4P ≥ 0).
+**Ứng dụng 2 — tìm hai số khi biết tổng và tích:** nếu hai số có tổng S và tích P thì chúng là hai nghiệm của phương trình **$x^2 - Sx + P = 0$** (điều kiện có nghiệm: $S^2 - 4P \ge 0$).
 
-> Ví dụ: tìm hai số có tổng 7, tích 12 → hai số là nghiệm của x²−7x+12=0 → x=3 hoặc x=4.
+> Ví dụ: tìm hai số có tổng 7, tích 12 $\to$ hai số là nghiệm của $x^2-7x+12=0 \to x=3$ hoặc $x=4$.
 
 ---
 
@@ -82,7 +82,7 @@ x₁,₂ = (−b' ± √Δ') / a — giúp tính toán gọn hơn khi b chia h�
 
 > Ví dụ minh hoạ: Một mảnh vườn hình chữ nhật có diện tích 150 m², chiều dài hơn chiều rộng 5 m. Tính các kích thước.
 > Gọi chiều rộng là x (m, x>0) → chiều dài là x+5.
-> Phương trình: x(x+5) = 150 → x² + 5x − 150 = 0 → Δ = 25+600 = 625 → x = (−5+25)/2 = 10
+> Phương trình: $x(x+5) = 150 \to x^2 + 5x - 150 = 0 \to \Delta = 25+600 = 625 \to x = (-5+25)/2 = 10$
 > Vậy chiều rộng 10 m, chiều dài 15 m.
 
 ---
@@ -112,9 +112,9 @@ x₁,₂ = (−b' ± √Δ') / a — giúp tính toán gọn hơn khi b chia h�
 
 **Tần số tương đối** của một giá trị = (tần số của giá trị đó) : (tổng số tất cả các giá trị), thường biểu diễn bằng **tỉ số phần trăm**.
 
-**Công thức:** f = (n : N) × 100%  (n: tần số của giá trị; N: tổng số dữ liệu)
+**Công thức:** $f = (n : N) \times 100\%$  (n: tần số của giá trị; N: tổng số dữ liệu)
 
-> Ví dụ (dùng lại dữ liệu điểm ở Bài 22, N=10): tần số tương đối của điểm 8 là (4:10)×100% = 40%.
+> Ví dụ (dùng lại dữ liệu điểm ở Bài 22, $N=10$): tần số tương đối của điểm 8 là $(4:10)\times 100\% = 40\%$.
 
 **Bảng và biểu đồ tần số tương đối:** tương tự bảng/biểu đồ tần số nhưng cột giá trị được thay bằng tỉ lệ phần trăm — giúp **so sánh** giữa các mẫu dữ liệu có kích thước khác nhau dễ dàng hơn so với tần số tuyệt đối.
 
@@ -124,7 +124,7 @@ x₁,₂ = (−b' ± √Δ') / a — giúp tính toán gọn hơn khi b chia h�
 
 **Vì sao cần ghép nhóm?** Khi dữ liệu có quá nhiều giá trị khác nhau (ví dụ: chiều cao, cân nặng của cả trăm học sinh), việc liệt kê từng giá trị riêng lẻ sẽ không thuận tiện. Khi đó ta **chia dữ liệu thành các nhóm (khoảng)** rồi đếm tần số của mỗi nhóm.
 
-> Ví dụ: chiều cao của 40 học sinh, chia thành các nhóm: [140;145), [145;150), [150;155), [155;160)... rồi đếm số học sinh rơi vào mỗi nhóm.
+> Ví dụ: chiều cao của 40 học sinh, chia thành các nhóm: $[140;145)$, $[145;150)$, $[150;155)$, $[155;160)$... rồi đếm số học sinh rơi vào mỗi nhóm.
 
 **Bảng tần số ghép nhóm** và **bảng tần số tương đối ghép nhóm:** trình bày tương tự bảng thông thường nhưng theo từng khoảng giá trị thay vì từng giá trị đơn lẻ.
 
@@ -145,8 +145,8 @@ x₁,₂ = (−b' ± √Δ') / a — giúp tính toán gọn hơn khi b chia h�
 - **Phép thử ngẫu nhiên:** một hành động (thí nghiệm, trò chơi) mà kết quả không thể đoán trước chắc chắn, nhưng biết được **tất cả các kết quả có thể xảy ra**.
 - **Không gian mẫu** (kí hiệu Ω): tập hợp tất cả các kết quả có thể của phép thử.
 
-> Ví dụ: tung một con xúc xắc 6 mặt → không gian mẫu Ω = {1; 2; 3; 4; 5; 6}.
-> Ví dụ: tung 2 đồng xu → mỗi đồng xu có 2 khả năng (Sấp/Ngửa) → không gian mẫu Ω có 2×2 = 4 kết quả: {SS; SN; NS; NN}.
+> Ví dụ: tung một con xúc xắc 6 mặt $\to$ không gian mẫu $\Omega = \{1; 2; 3; 4; 5; 6\}$.
+> Ví dụ: tung 2 đồng xu $\to$ mỗi đồng xu có 2 khả năng (Sấp/Ngửa) $\to$ không gian mẫu $\Omega$ có $2 \times 2 = 4$ kết quả: $\{SS; SN; NS; NN\}$.
 
 ---
 
@@ -156,16 +156,16 @@ x₁,₂ = (−b' ± √Δ') / a — giúp tính toán gọn hơn khi b chia h�
 
 **Xác suất của biến cố (khi các kết quả đồng khả năng):**
 
-**P(A) = (số kết quả thuận lợi cho A) / (tổng số kết quả có thể)**
+**$P(A) = (\text{số kết quả thuận lợi cho A}) / (\text{tổng số kết quả có thể})$**
 
-> Ví dụ: tung 1 xúc xắc, biến cố A = "xuất hiện mặt số chẵn" = {2;4;6} → P(A) = 3/6 = 1/2.
+> Ví dụ: tung 1 xúc xắc, biến cố A = "xuất hiện mặt số chẵn" = $\{2;4;6\} \to P(A) = 3/6 = 1/2$.
 
 **Tính chất:**
-- 0 ≤ P(A) ≤ 1 với mọi biến cố A.
-- P(Ω) = 1 (biến cố chắc chắn).
-- P(∅) = 0 (biến cố không thể xảy ra).
+- $0 \le P(A) \le 1$ với mọi biến cố A.
+- $P(\Omega) = 1$ (biến cố chắc chắn).
+- $P(\emptyset) = 0$ (biến cố không thể xảy ra).
 
-> Ví dụ minh hoạ khác: rút ngẫu nhiên 1 lá bài từ bộ 52 lá, biến cố "rút được lá Cơ (Hearts)" có 13 kết quả thuận lợi trên tổng 52 → xác suất = 13/52 = 1/4.
+> Ví dụ minh hoạ khác: rút ngẫu nhiên 1 lá bài từ bộ 52 lá, biến cố "rút được lá Cơ (Hearts)" có 13 kết quả thuận lợi trên tổng 52 $\to$ xác suất = $13/52 = 1/4$.
 
 *(Phân biệt với "xác suất thực nghiệm" đã học ở lớp 6: xác suất ở đây tính bằng **lí thuyết** dựa trên số kết quả có thể, không cần thực hiện thử nghiệm nhiều lần.)*
 
@@ -225,10 +225,10 @@ x₁,₂ = (−b' ± √Δ') / a — giúp tính toán gọn hơn khi b chia h�
 
 **Đa giác đều** là đa giác có **tất cả các cạnh bằng nhau** và **tất cả các góc bằng nhau**.
 
-**Công thức số đo mỗi góc của đa giác đều n cạnh:**
-**Góc = [(n−2) × 180°] / n**
+**Công thức số đo mỗi góc của đa giác đều n cạnh:
+**$\text{Góc} = [(n-2) \times 180°] / n$**
 
-> Ví dụ: lục giác đều (n=6) → mỗi góc = (4×180)/6 = 120°
+> Ví dụ: lục giác đều ($n=6$) $\to$ mỗi góc = $(4 \times 180)/6 = 120°$
 
 **Mọi đa giác đều đều có** một đường tròn ngoại tiếp (đi qua tất cả các đỉnh) và một đường tròn nội tiếp (tiếp xúc tất cả các cạnh), **hai đường tròn này có cùng tâm**, gọi là **tâm của đa giác đều**.
 
@@ -249,22 +249,22 @@ x₁,₂ = (−b' ± √Δ') / a — giúp tính toán gọn hơn khi b chia h�
 ### Hình trụ
 Được tạo thành khi quay một hình chữ nhật quanh một cạnh cố định. Có 2 mặt đáy là hai hình tròn bằng nhau (bán kính r), song song; chiều cao h là khoảng cách giữa hai đáy.
 
-**Công thức (r: bán kính đáy, h: chiều cao):**
-- Diện tích xung quanh: **Sxq = 2πrh**
-- Diện tích toàn phần: **Stp = 2πrh + 2πr²**
-- Thể tích: **V = πr²h**
+**Công thức ($r$: bán kính đáy, $h$: chiều cao):
+- Diện tích xung quanh: **$S_{xq} = 2\pi rh$**
+- Diện tích toàn phần: **$S_{tp} = 2\pi rh + 2\pi r^2$**
+- Thể tích: **$V = \pi r^2 h$**
 
-> Ví dụ: lon nước ngọt hình trụ có bán kính đáy 3 cm, chiều cao 10 cm → V = π×9×10 = 90π ≈ 282,6 (cm³)
+> Ví dụ: lon nước ngọt hình trụ có bán kính đáy 3 cm, chiều cao 10 cm $\to V = \pi \times 9 \times 10 = 90\pi \approx 282,6$ (cm³)
 
 ### Hình nón
-Được tạo thành khi quay một tam giác vuông quanh một cạnh góc vuông cố định. Có 1 mặt đáy hình tròn (bán kính r), 1 đỉnh, và độ dài đường sinh l (l² = r² + h² theo Pythagore).
+Được tạo thành khi quay một tam giác vuông quanh một cạnh góc vuông cố định. Có 1 mặt đáy hình tròn (bán kính r), 1 đỉnh, và độ dài đường sinh l ($l^2 = r^2 + h^2$ theo Pythagore).
 
-**Công thức (r: bán kính đáy, h: chiều cao, l: đường sinh):**
-- Diện tích xung quanh: **Sxq = πrl**
-- Diện tích toàn phần: **Stp = πrl + πr²**
-- Thể tích: **V = (1/3)πr²h**
+**Công thức ($r$: bán kính đáy, $h$: chiều cao, $l$: đường sinh):
+- Diện tích xung quanh: **$S_{xq} = \pi rl$**
+- Diện tích toàn phần: **$S_{tp} = \pi rl + \pi r^2$**
+- Thể tích: **$V = (1/3)\pi r^2 h$**
 
-> Ví dụ: chiếc nón lá có bán kính đáy 20 cm, đường sinh 30 cm → Sxq = π×20×30 = 600π (cm²)
+> Ví dụ: chiếc nón lá có bán kính đáy 20 cm, đường sinh 30 cm $\to S_{xq} = \pi \times 20 \times 30 = 600\pi$ (cm²)
 
 **Minh hoạ thực tế:** hình trụ giống lon nước, ống nước, cột trụ; hình nón giống nón lá, cây kem ốc quế, mũ sinh nhật.
 
@@ -274,11 +274,11 @@ x₁,₂ = (−b' ± √Δ') / a — giúp tính toán gọn hơn khi b chia h�
 
 Hình cầu tâm O, bán kính R là tập hợp tất cả các điểm trong không gian cách O một khoảng ≤ R (khối cầu) hoặc = R (mặt cầu).
 
-**Công thức (R: bán kính):**
-- Diện tích mặt cầu: **S = 4πR²**
-- Thể tích hình cầu: **V = (4/3)πR³**
+**Công thức ($R$: bán kính):
+- Diện tích mặt cầu: **$S = 4\pi R^2$**
+- Thể tích hình cầu: **$V = (4/3)\pi R^3$**
 
-> Ví dụ: quả bóng đá có bán kính khoảng 11 cm → thể tích ≈ (4/3)×π×11³ ≈ 5575 (cm³)
+> Ví dụ: quả bóng đá có bán kính khoảng 11 cm $\to$ thể tích $\approx (4/3) \times \pi \times 11^3 \approx 5575$ (cm³)
 
 **Minh hoạ thực tế:** quả bóng, hạt bi, Trái Đất (gần đúng là hình cầu) — hình cầu là hình khối "tròn đều" nhất, không có mặt phẳng hay cạnh nào.
 
@@ -286,9 +286,9 @@ Hình cầu tâm O, bán kính R là tập hợp tất cả các điểm trong k
 
 | Hình khối | Diện tích xung quanh/mặt | Thể tích |
 |---|---|---|
-| Hình trụ | Sxq = 2πrh | V = πr²h |
-| Hình nón | Sxq = πrl | V = (1/3)πr²h |
-| Hình cầu | S = 4πR² | V = (4/3)πR³ |
+| Hình trụ | $S_{xq} = 2\pi rh$ | $V = \pi r^2 h$ |
+| Hình nón | $S_{xq} = \pi rl$ | $V = (1/3)\pi r^2 h$ |
+| Hình cầu | $S = 4\pi R^2$ | $V = (4/3)\pi R^3$ |
 
 ---
 

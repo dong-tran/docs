@@ -16,25 +16,25 @@
 
 ## Bài 21. Phân thức đại số
 
-**Định nghĩa:** Phân thức đại số là biểu thức có dạng **A/B**, trong đó A, B là các đa thức, **B ≠ 0** (B khác đa thức 0).
+**Định nghĩa:** Phân thức đại số là biểu thức có dạng **$A/B$**, trong đó A, B là các đa thức, **$B \neq 0$** (B khác đa thức 0).
 
-> Ví dụ: (x+1)/(x−2), (2x²−3)/(x²+1) là các phân thức đại số.
+> Ví dụ: $(x+1)/(x-2)$, $(2x^2-3)/(x^2+1)$ là các phân thức đại số.
 
 **Điều kiện xác định:** phân thức A/B có nghĩa khi giá trị của B (mẫu thức) khác 0.
-> Ví dụ: (3x)/(x−2) xác định khi x ≠ 2.
+> Ví dụ: $(3x)/(x-2)$ xác định khi $x \neq 2$.
 
-**Hai phân thức bằng nhau:** A/B = C/D **khi và chỉ khi** A × D = B × C (tương tự phân số).
+**Hai phân thức bằng nhau:** $A/B = C/D$ **khi và chỉ khi** $A \times D = B \times C$ (tương tự phân số).
 
 ---
 
 ## Bài 22. Tính chất cơ bản của phân thức đại số
 
 **Hai tính chất cơ bản (giống phân số):**
-1. A/B = (A×M)/(B×M) (M là đa thức khác 0)
-2. A/B = (A:N)/(B:N) (N là nhân tử chung khác 0 của A và B)
+1. $A/B = (A \times M)/(B \times M)$ (M là đa thức khác 0)
+2. $A/B = (A:N)/(B:N)$ (N là nhân tử chung khác 0 của A và B)
 
 **Rút gọn phân thức:** phân tích tử và mẫu thành nhân tử, rồi chia cả tử và mẫu cho nhân tử chung.
-> Ví dụ: (x²−1)/(x²+x) = [(x−1)(x+1)] / [x(x+1)] = (x−1)/x  (với x ≠ 0, x ≠ −1)
+> Ví dụ: $(x^2-1)/(x^2+x) = [(x-1)(x+1)] / [x(x+1)] = (x-1)/x$  (với $x \neq 0$, $x \neq -1$)
 
 **Quy đồng mẫu thức nhiều phân thức:** phân tích các mẫu thành nhân tử, tìm **mẫu thức chung** (chứa tất cả các nhân tử của mọi mẫu, mỗi nhân tử lấy số mũ lớn nhất — tương tự tìm BCNN).
 
@@ -43,24 +43,24 @@
 ## Bài 23. Phép cộng và phép trừ phân thức đại số
 
 **Cộng, trừ hai phân thức cùng mẫu:** giữ nguyên mẫu, cộng (trừ) các tử.
-> Ví dụ: (2x)/(x+1) + (3)/(x+1) = (2x+3)/(x+1)
+> Ví dụ: $(2x)/(x+1) + (3)/(x+1) = (2x+3)/(x+1)$
 
 **Cộng, trừ hai phân thức khác mẫu:** quy đồng mẫu thức rồi cộng/trừ như trên.
-> Ví dụ: 1/x + 1/(x+1) = (x+1)/[x(x+1)] + x/[x(x+1)] = (2x+1)/[x(x+1)]
+> Ví dụ: $1/x + 1/(x+1) = (x+1)/[x(x+1)] + x/[x(x+1)] = (2x+1)/[x(x+1)]$
 
-**Phân thức đối của A/B là −A/B.** Trừ hai phân thức = cộng với phân thức đối: A/B − C/D = A/B + (−C/D)
+**Phân thức đối của $A/B$ là $-A/B$.** Trừ hai phân thức = cộng với phân thức đối: $A/B - C/D = A/B + (-C/D)$
 
 ---
 
 ## Bài 24. Phép nhân và phép chia phân thức đại số
 
 **Nhân hai phân thức:** nhân tử với tử, mẫu với mẫu, rồi rút gọn nếu có thể.
-**A/B × C/D = (A×C)/(B×D)**
-> Ví dụ: (x)/(x+1) × (x+1)/(2) = x/2 (đã rút gọn (x+1))
+**$A/B \times C/D = (A \times C)/(B \times D)$**
+> Ví dụ: $(x)/(x+1) \times (x+1)/(2) = x/2$ (đã rút gọn $(x+1)$)
 
 **Chia hai phân thức:** nhân với phân thức nghịch đảo của số chia.
-**A/B : C/D = A/B × D/C** (C/D ≠ 0)
-> Ví dụ: (x)/2 : (x)/(x+3) = (x)/2 × (x+3)/x = (x+3)/2
+**$A/B : C/D = A/B \times D/C$** ($C/D \neq 0$)
+> Ví dụ: $(x)/2 : (x)/(x+3) = (x)/2 \times (x+3)/x = (x+3)/2$
 
 ---
 
@@ -74,13 +74,13 @@
 
 ## Bài 25. Phương trình bậc nhất một ẩn
 
-**Dạng tổng quát:** **ax + b = 0** (a ≠ 0), có nghiệm duy nhất **x = −b/a**.
+**Dạng tổng quát:** **$ax + b = 0$** ($a \neq 0$), có nghiệm duy nhất **$x = -b/a$**.
 
 **Hai quy tắc biến đổi phương trình:**
 1. **Quy tắc chuyển vế:** chuyển hạng tử từ vế này sang vế kia phải đổi dấu.
 2. **Quy tắc nhân (chia):** nhân (hoặc chia) cả hai vế với cùng một số khác 0.
 
-> Ví dụ: Giải 2x − 6 = 0 → 2x = 6 (chuyển vế) → x = 3 (chia 2 vế cho 2)
+> Ví dụ: Giải $2x - 6 = 0 \to 2x = 6$ (chuyển vế) $\to x = 3$ (chia 2 vế cho 2)
 
 **Phương trình đưa được về dạng ax+b=0:** thực hiện khai triển, quy đồng, chuyển vế, thu gọn để đưa phương trình phức tạp hơn về dạng cơ bản trên.
 
@@ -96,7 +96,7 @@
 5. Đối chiếu điều kiện, kết luận.
 
 > Ví dụ: Một người đi xe máy từ A đến B với vận tốc 40 km/h, hết 3 giờ nếu tăng vận tốc lên 50 km/h thì đến sớm hơn 36 phút. Tính quãng đường AB.
-> Gọi thời gian dự định là x giờ (x>0). Quãng đường: 40x = 50(x − 0,6) → 40x = 50x − 30 → x = 3 → AB = 40×3 = 120 km.
+> Gọi thời gian dự định là x giờ ($x>0$). Quãng đường: $40x = 50(x - 0,6) \to 40x = 50x - 30 \to x = 3 \to AB = 40 \times 3 = 120$ km.
 
 ---
 
@@ -104,40 +104,40 @@
 
 **Hàm số:** đại lượng y gọi là **hàm số** của đại lượng x nếu với mỗi giá trị của x ta luôn xác định được **chỉ một** giá trị tương ứng của y.
 
-**Đồ thị hàm số y = f(x):** tập hợp tất cả các điểm (x; f(x)) trên mặt phẳng toạ độ.
+**Đồ thị hàm số $y = f(x)$:** tập hợp tất cả các điểm $(x; f(x))$ trên mặt phẳng toạ độ.
 
-> Ví dụ: hàm số y = 2x, với x = 1 → y = 2 (điểm (1;2)); x = −1 → y = −2 (điểm (−1;−2)).
+> Ví dụ: hàm số $y = 2x$, với $x = 1 \to y = 2$ (điểm $(1;2)$); $x = -1 \to y = -2$ (điểm $(-1;-2)$).
 
 ---
 
 ## Bài 28. Hàm số bậc nhất và đồ thị của hàm số bậc nhất
 
-**Hàm số bậc nhất:** **y = ax + b** (a ≠ 0), xác định với mọi x ∈ R.
+**Hàm số bậc nhất:** **$y = ax + b$** ($a \neq 0$), xác định với mọi $x \in \mathbb{R}$.
 
 **Tính chất biến thiên:**
-- Nếu **a > 0**: hàm số **đồng biến** (x tăng thì y tăng).
-- Nếu **a < 0**: hàm số **nghịch biến** (x tăng thì y giảm).
+- Nếu **$a > 0$**: hàm số **đồng biến** (x tăng thì y tăng).
+- Nếu **$a < 0$**: hàm số **nghịch biến** (x tăng thì y giảm).
 
-**Đồ thị:** là một **đường thẳng** cắt trục tung tại điểm (0; b) và cắt trục hoành tại điểm (−b/a; 0).
+**Đồ thị:** là một **đường thẳng** cắt trục tung tại điểm $(0; b)$ và cắt trục hoành tại điểm $(-b/a; 0)$.
 
 **Cách vẽ nhanh:** xác định 2 điểm thuộc đồ thị (thường là giao điểm với 2 trục), rồi kẻ đường thẳng qua 2 điểm đó.
-> Ví dụ: vẽ y = 2x − 4 → cắt Oy tại (0; −4), cắt Ox tại (2; 0).
+> Ví dụ: vẽ $y = 2x - 4 \to$ cắt Oy tại $(0; -4)$, cắt Ox tại $(2; 0)$.
 
 ---
 
 ## Bài 29. Hệ số góc của đường thẳng
 
 **Hệ số góc:** trong hàm số y = ax + b, hệ số **a** gọi là **hệ số góc** của đường thẳng — thể hiện độ "dốc" và hướng nghiêng của đường thẳng so với trục Ox.
-- a > 0: đường thẳng đi lên (từ trái sang phải), góc tạo với chiều dương Ox là góc nhọn.
-- a < 0: đường thẳng đi xuống, góc tạo với chiều dương trục Ox là góc tù.
-- |a| càng lớn: đường thẳng càng dốc.
+- $a > 0$: đường thẳng đi lên (từ trái sang phải), góc tạo với chiều dương Ox là góc nhọn.
+- $a < 0$: đường thẳng đi xuống, góc tạo với chiều dương trục Ox là góc tù.
+- $|a|$ càng lớn: đường thẳng càng dốc.
 
-**Hai đường thẳng y=ax+b và y=a'x+b' (a,a'≠0):**
-- **Song song** với nhau ⟺ a = a' và b ≠ b'
-- **Trùng nhau** ⟺ a = a' và b = b'
-- **Cắt nhau** ⟺ a ≠ a'
+**Hai đường thẳng $y=ax+b$ và $y=a'x+b'$ ($a,a' \neq 0$):
+- **Song song** với nhau $\iff a = a'$ và $b \neq b'$
+- **Trùng nhau** $\iff a = a'$ và $b = b'$
+- **Cắt nhau** $\iff a \neq a'$
 
-> Ví dụ: y = 2x + 1 và y = 2x − 3 song song (cùng hệ số góc a=2, khác b); y = 2x+1 và y = −x+4 cắt nhau (hệ số góc khác nhau: 2 ≠ −1).
+> Ví dụ: $y = 2x + 1$ và $y = 2x - 3$ song song (cùng hệ số góc $a=2$, khác b); $y = 2x+1$ và $y = -x+4$ cắt nhau (hệ số góc khác nhau: $2 \neq -1$).
 
 ---
 
@@ -162,13 +162,13 @@
 
 **Công thức (khi các kết quả có thể là đồng khả năng):**
 
-**P(A) = (số kết quả thuận lợi cho A) / (tổng số kết quả có thể)**
+**$P(A) = (\text{số kết quả thuận lợi cho A}) / (\text{tổng số kết quả có thể})$**
 
-> Ví dụ (tiếp bài trên): tổng số kết quả có thể khi tung xúc xắc là 6 → P(A) = 3/6 = 1/2.
+> Ví dụ (tiếp bài trên): tổng số kết quả có thể khi tung xúc xắc là 6 $\to P(A) = 3/6 = 1/2$.
 
-**Tính chất:** 0 ≤ P(A) ≤ 1; P(biến cố chắc chắn) = 1; P(biến cố không thể) = 0.
+**Tính chất:** $0 \le P(A) \le 1$; $P(\text{biến cố chắc chắn}) = 1$; $P(\text{biến cố không thể}) = 0$.
 
-> Ví dụ khác: một hộp có 5 bi đỏ, 3 bi xanh, 2 bi vàng (tổng 10 bi), lấy ngẫu nhiên 1 bi. Xác suất lấy được bi xanh = 3/10.
+> Ví dụ khác: một hộp có 5 bi đỏ, 3 bi xanh, 2 bi vàng (tổng 10 bi), lấy ngẫu nhiên 1 bi. Xác suất lấy được bi xanh = $3/10$.
 
 ---
 
@@ -178,7 +178,7 @@
 
 **Mối liên hệ:** Khi số lần thử nghiệm **càng lớn**, **xác suất thực nghiệm** của một biến cố sẽ **càng gần** với **xác suất lí thuyết** (xác suất tính theo tỉ số ở Bài 31).
 
-> Ví dụ minh hoạ: tung một đồng xu cân đối, xác suất lí thuyết xuất hiện mặt ngửa là 1/2 = 50%. Nếu chỉ tung 10 lần, tỉ lệ mặt ngửa thực tế có thể lệch khá xa 50% (ví dụ 3/10 = 30%); nhưng nếu tung 1000 lần, tỉ lệ thực nghiệm sẽ rất gần 50%.
+> Ví dụ minh hoạ: tung một đồng xu cân đối, xác suất lí thuyết xuất hiện mặt ngửa là $1/2 = 50\%$. Nếu chỉ tung 10 lần, tỉ lệ mặt ngửa thực tế có thể lệch khá xa $50\%$ (ví dụ $3/10 = 30\%$); nhưng nếu tung 1000 lần, tỉ lệ thực nghiệm sẽ rất gần $50\%$.
 
 **Ứng dụng:** khi không thể tính xác suất lí thuyết một cách chính xác (ví dụ: khả năng một hạt giống nảy mầm), người ta dùng xác suất thực nghiệm (qua thử nghiệm nhiều lần) để **ước lượng** xác suất lí thuyết.
 
@@ -195,12 +195,12 @@
 ## Bài 33. Hai tam giác đồng dạng
 
 **Định nghĩa:** Tam giác A'B'C' gọi là **đồng dạng** với tam giác ABC nếu:
-- Các góc tương ứng bằng nhau: Â' = Â, B̂' = B̂, Ĉ' = Ĉ
-- Các cạnh tương ứng tỉ lệ: A'B'/AB = B'C'/BC = A'C'/AC
+- Các góc tương ứng bằng nhau: $\hat{A}' = \hat{A}$, $\hat{B}' = \hat{B}$, $\hat{C}' = \hat{C}$
+- Các cạnh tương ứng tỉ lệ: $A'B'/AB = B'C'/BC = A'C'/AC$
 
-Kí hiệu: △A'B'C' ∽ △ABC (thứ tự đỉnh tương ứng phải viết đúng).
+Kí hiệu: $\triangle A'B'C' \sim \triangle ABC$ (thứ tự đỉnh tương ứng phải viết đúng).
 
-**Tỉ số đồng dạng k:** tỉ số giữa các cặp cạnh tương ứng (k = A'B'/AB = ...).
+**Tỉ số đồng dạng k:** tỉ số giữa các cặp cạnh tương ứng ($k = A'B'/AB = \ldots$).
 
 > Minh hoạ: hai tấm ảnh cùng một bức tranh nhưng in với kích cỡ khác nhau (một tấm to, một tấm nhỏ) — hình dạng giống hệt nhau, chỉ khác về kích thước, chính là hình ảnh trực quan của "đồng dạng".
 
@@ -218,8 +218,8 @@ Kí hiệu: △A'B'C' ∽ △ABC (thứ tự đỉnh tương ứng phải viết
 
 *(So sánh với trường hợp bằng nhau của tam giác đã học ở lớp 7: đồng dạng chỉ cần cạnh **tỉ lệ** thay vì **bằng nhau** — vì đồng dạng cho phép khác kích thước, chỉ cần giống hình dạng.)*
 
-> Ví dụ: tam giác ABC có AB=4, AC=6, góc A=50°; tam giác A'B'C' có A'B'=6, A'C'=9, góc A'=50°.
-> Tỉ số AB/A'B' = 4/6 = 2/3; AC/A'C' = 6/9 = 2/3 → hai cạnh tỉ lệ và góc xen giữa bằng nhau → △ABC ∽ △A'B'C' (c.g.c).
+> Ví dụ: tam giác ABC có $AB=4$, $AC=6$, góc $A=50°$; tam giác A'B'C' có $A'B'=6$, $A'C'=9$, góc $A'=50°$.
+> Tỉ số $AB/A'B' = 4/6 = 2/3$; $AC/A'C' = 6/9 = 2/3 \to$ hai cạnh tỉ lệ và góc xen giữa bằng nhau $\to \triangle ABC \sim \triangle A'B'C'$ (c.g.c).
 
 ---
 
@@ -227,9 +227,9 @@ Kí hiệu: △A'B'C' ∽ △ABC (thứ tự đỉnh tương ứng phải viết
 
 **Định lí Pythagore:** Trong tam giác vuông, **bình phương cạnh huyền bằng tổng bình phương hai cạnh góc vuông**.
 
-**a² = b² + c²** (a: cạnh huyền; b, c: hai cạnh góc vuông)
+**$a^2 = b^2 + c^2$** (a: cạnh huyền; b, c: hai cạnh góc vuông)
 
-> Ví dụ: tam giác vuông có 2 cạnh góc vuông 3 cm và 4 cm → cạnh huyền = √(3²+4²) = √25 = 5 cm (đây là "bộ ba Pythagore" quen thuộc 3-4-5).
+> Ví dụ: tam giác vuông có 2 cạnh góc vuông 3 cm và 4 cm $\to$ cạnh huyền = $\sqrt{3^2+4^2} = \sqrt{25} = 5$ cm (đây là "bộ ba Pythagore" quen thuộc 3-4-5).
 
 **Định lí Pythagore đảo:** nếu một tam giác có bình phương một cạnh bằng tổng bình phương hai cạnh còn lại thì tam giác đó **vuông** (dùng để chứng minh góc vuông).
 
@@ -269,10 +269,10 @@ Vì tam giác vuông đã có sẵn 1 góc vuông bằng nhau, nên các trườ
 
 **Các yếu tố:** đáy, mặt bên, cạnh bên, cạnh đáy, đường cao (từ đỉnh vuông góc xuống tâm đáy), trung đoạn (đường cao của mỗi mặt bên).
 
-**Công thức (a: cạnh đáy, d: trung đoạn mặt bên, h: chiều cao hình chóp, S(đáy): diện tích đáy):**
-- Diện tích xung quanh: **Sxq = (1/2) × chu vi đáy × d = (3a×d)/2**
-- Diện tích toàn phần: **Stp = Sxq + S(đáy)**
-- Thể tích: **V = (1/3) × S(đáy) × h**
+**Công thức ($a$: cạnh đáy, $d$: trung đoạn mặt bên, $h$: chiều cao hình chóp, $S(\text{đáy})$: diện tích đáy):
+- Diện tích xung quanh: **$S_{xq} = (1/2) \times \text{chu vi đáy} \times d = (3a \times d)/2$**
+- Diện tích toàn phần: **$S_{tp} = S_{xq} + S(\text{đáy})$**
+- Thể tích: **$V = (1/3) \times S(\text{đáy}) \times h$**
 
 > Minh hoạ thực tế: Kim Tự Tháp Ai Cập nổi tiếng có dạng gần với hình chóp (đáy là hình vuông — sẽ học ở bài sau), còn hình chóp tam giác đều thường gặp ở các mái nhà, lều trại hình tháp có đáy tam giác.
 
@@ -282,13 +282,13 @@ Vì tam giác vuông đã có sẵn 1 góc vuông bằng nhau, nên các trườ
 
 **Cấu tạo:** có đáy là **hình vuông**, các mặt bên là các **tam giác cân bằng nhau** chung đỉnh.
 
-**Công thức (a: cạnh đáy, d: trung đoạn mặt bên, h: chiều cao hình chóp):**
-- Diện tích xung quanh: **Sxq = (1/2) × chu vi đáy × d = 2a×d**
-- Diện tích toàn phần: **Stp = Sxq + a²** (a²: diện tích đáy hình vuông)
-- Thể tích: **V = (1/3) × a² × h**
+**Công thức ($a$: cạnh đáy, $d$: trung đoạn mặt bên, $h$: chiều cao hình chóp):
+- Diện tích xung quanh: **$S_{xq} = (1/2) \times \text{chu vi đáy} \times d = 2a \times d$**
+- Diện tích toàn phần: **$S_{tp} = S_{xq} + a^2$** ($a^2$: diện tích đáy hình vuông)
+- Thể tích: **$V = (1/3) \times a^2 \times h$**
 
-> Ví dụ: hình chóp tứ giác đều có cạnh đáy 6 cm, chiều cao 4 cm →
-> V = (1/3) × 6² × 4 = (1/3) × 36 × 4 = 48 (cm³)
+> Ví dụ: hình chóp tứ giác đều có cạnh đáy 6 cm, chiều cao 4 cm $\to$
+> $V = (1/3) \times 6^2 \times 4 = (1/3) \times 36 \times 4 = 48$ (cm³)
 
 > Minh hoạ thực tế: Kim Tự Tháp Ai Cập (đáy hình vuông), mái nhà kiểu chóp, đèn lồng hình chóp.
 

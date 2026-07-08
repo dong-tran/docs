@@ -16,15 +16,15 @@
 
 ## Bài 20. Tỉ lệ thức
 
-**Tỉ lệ thức:** đẳng thức giữa hai tỉ số **a/b = c/d** (b, d ≠ 0), viết là a : b = c : d.
+**Tỉ lệ thức:** đẳng thức giữa hai tỉ số **$a/b = c/d$** ($b, d \neq 0$), viết là $a : b = c : d$.
 
 - a, d gọi là **ngoại tỉ**; b, c gọi là **trung tỉ**.
 
-**Tính chất cơ bản (nhân chéo):** a/b = c/d **⟺ a×d = b×c**
+**Tính chất cơ bản (nhân chéo):** $a/b = c/d \iff a \times d = b \times c$
 
-> Ví dụ: 2/3 = 4/6 vì 2×6 = 3×4 (=12).
+> Ví dụ: $2/3 = 4/6$ vì $2 \times 6 = 3 \times 4 (=12)$.
 
-**Từ đẳng thức a×d = b×c (a,b,c,d ≠ 0)** có thể suy ra 4 tỉ lệ thức: a/b=c/d; a/c=b/d; d/b=c/a; d/c=b/a.
+**Từ đẳng thức $a \times d = b \times c$ ($a,b,c,d \neq 0$)** có thể suy ra 4 tỉ lệ thức: $a/b=c/d$; $a/c=b/d$; $d/b=c/a$; $d/c=b/a$.
 
 ---
 
@@ -32,13 +32,13 @@
 
 **Tính chất mở rộng cho dãy tỉ số bằng nhau:**
 
-Nếu **a/b = c/d = e/f** thì:
+Nếu **$a/b = c/d = e/f$** thì:
 
-**a/b = c/d = e/f = (a+c+e)/(b+d+f) = (a−c+e)/(b−d+f)** (giả sử các mẫu tương ứng khác 0)
+**$a/b = c/d = e/f = (a+c+e)/(b+d+f) = (a-c+e)/(b-d+f)$** (giả sử các mẫu tương ứng khác 0)
 
-> Ví dụ: nếu a/2 = b/3 = c/5 và a+b+c = 20, thì:
-> a/2 = b/3 = c/5 = (a+b+c)/(2+3+5) = 20/10 = 2
-> → a = 4, b = 6, c = 10
+> Ví dụ: nếu $a/2 = b/3 = c/5$ và $a+b+c = 20$, thì:
+> $a/2 = b/3 = c/5 = (a+b+c)/(2+3+5) = 20/10 = 2$
+> $\to a = 4$, $b = 6$, $c = 10$
 
 *(Đây là công cụ cực kì hữu ích để giải các bài toán "chia theo tỉ lệ" trong thực tế: chia tiền, chia phần thưởng, pha trộn nguyên liệu theo tỉ lệ cho trước.)*
 
@@ -46,11 +46,11 @@ Nếu **a/b = c/d = e/f** thì:
 
 ## Bài 22. Đại lượng tỉ lệ thuận
 
-**Định nghĩa:** Đại lượng y **tỉ lệ thuận** với đại lượng x nếu y = kx (k ≠ 0 là **hệ số tỉ lệ**).
+**Định nghĩa:** Đại lượng y **tỉ lệ thuận** với đại lượng x nếu $y = kx$ ($k \neq 0$ là **hệ số tỉ lệ**).
 
-**Tính chất:** nếu y tỉ lệ thuận với x thì tỉ số y/x luôn không đổi (bằng k); và với hai cặp giá trị bất kì: y₁/x₁ = y₂/x₂.
+**Tính chất:** nếu y tỉ lệ thuận với x thì tỉ số $y/x$ luôn không đổi (bằng k); và với hai cặp giá trị bất kì: $y_1/x_1 = y_2/x_2$.
 
-> Ví dụ: quãng đường đi được tỉ lệ thuận với thời gian khi vận tốc không đổi — s = v×t (v là hệ số tỉ lệ). Nếu đi 2 giờ được 90 km (v=45 km/h) thì đi 3 giờ được 45×3 = 135 km.
+> Ví dụ: quãng đường đi được tỉ lệ thuận với thời gian khi vận tốc không đổi — $s = v \times t$ (v là hệ số tỉ lệ). Nếu đi 2 giờ được 90 km ($v=45$ km/h) thì đi 3 giờ được $45 \times 3 = 135$ km.
 
 **Đồ thị của đại lượng tỉ lệ thuận** là một **đường thẳng đi qua gốc toạ độ**.
 
@@ -58,19 +58,19 @@ Nếu **a/b = c/d = e/f** thì:
 
 ## Bài 23. Đại lượng tỉ lệ nghịch
 
-**Định nghĩa:** Đại lượng y **tỉ lệ nghịch** với đại lượng x nếu **y = a/x** (hay x×y = a, a ≠ 0 là **hệ số tỉ lệ**).
+**Định nghĩa:** Đại lượng y **tỉ lệ nghịch** với đại lượng x nếu **$y = a/x$** (hay $x \times y = a$, $a \neq 0$ là **hệ số tỉ lệ**).
 
-**Tính chất:** tích x×y luôn không đổi (bằng a); với hai cặp giá trị: x₁×y₁ = x₂×y₂.
+**Tính chất:** tích $x \times y$ luôn không đổi (bằng a); với hai cặp giá trị: $x_1 \times y_1 = x_2 \times y_2$.
 
-> Ví dụ: cùng một quãng đường cố định, vận tốc và thời gian là hai đại lượng tỉ lệ nghịch (v×t = quãng đường không đổi). Nếu đi với vận tốc 60 km/h hết 2 giờ (quãng đường = 120 km), thì để đi hết quãng đường đó trong 1,5 giờ cần vận tốc = 120/1,5 = 80 km/h.
+> Ví dụ: cùng một quãng đường cố định, vận tốc và thời gian là hai đại lượng tỉ lệ nghịch ($v \times t =$ quãng đường không đổi). Nếu đi với vận tốc 60 km/h hết 2 giờ (quãng đường = 120 km), thì để đi hết quãng đường đó trong 1,5 giờ cần vận tốc = $120/1,5 = 80$ km/h.
 
 **Phân biệt nhanh tỉ lệ thuận và tỉ lệ nghịch:**
 
 | | Tỉ lệ thuận | Tỉ lệ nghịch |
 |---|---|---|
-| Công thức | y = kx | y = a/x (hay xy = a) |
+| Công thức | $y = kx$ | $y = a/x$ (hay $xy = a$) |
 | Khi x tăng | y cũng tăng | y giảm |
-| Tỉ số/tích không đổi | y/x = k | x×y = a |
+| Tỉ số/tích không đổi | $y/x = k$ | $x \times y = a$ |
 
 ---
 
@@ -85,10 +85,10 @@ Nếu **a/b = c/d = e/f** thì:
 ## Bài 24. Biểu thức đại số
 
 **Biểu thức đại số:** biểu thức có chứa số, chữ (biến) và các phép toán (cộng, trừ, nhân, chia, luỹ thừa).
-> Ví dụ: 2x + 3, x²y − 5, (a+b)/2 đều là biểu thức đại số.
+> Ví dụ: $2x + 3$, $x^2y - 5$, $(a+b)/2$ đều là biểu thức đại số.
 
 **Giá trị của biểu thức đại số:** thay giá trị cụ thể của biến vào biểu thức rồi tính toán.
-> Ví dụ: biểu thức 2x + 3, tại x = 4 → giá trị = 2×4+3 = 11.
+> Ví dụ: biểu thức $2x + 3$, tại $x = 4 \to$ giá trị = $2 \times 4+3 = 11$.
 
 ---
 
@@ -100,13 +100,13 @@ Nếu **a/b = c/d = e/f** thì:
 **Dạng thu gọn và sắp xếp:** thường sắp xếp các hạng tử theo luỹ thừa **giảm dần** (hoặc tăng dần) của biến.
 
 **Bậc của đa thức một biến:** số mũ lớn nhất của biến trong đa thức (đã thu gọn).
-> Ví dụ: P(x) = 3x³ − 2x² + x − 5 có bậc 3.
+> Ví dụ: $P(x) = 3x^3 - 2x^2 + x - 5$ có bậc 3.
 
 **Hệ số:** hệ số của hạng tử bậc cao nhất gọi là **hệ số cao nhất**; hạng tử không chứa biến gọi là **hệ số tự do**.
 
 **Giá trị của đa thức tại x = a:** kí hiệu P(a), thay x = a vào đa thức rồi tính.
 **Nghiệm của đa thức:** giá trị a sao cho P(a) = 0.
-> Ví dụ: P(x) = x − 2 có nghiệm x = 2 vì P(2) = 0.
+> Ví dụ: $P(x) = x - 2$ có nghiệm $x = 2$ vì $P(2) = 0$.
 
 ---
 
@@ -114,9 +114,9 @@ Nếu **a/b = c/d = e/f** thì:
 
 **Cộng, trừ đa thức một biến:** cộng/trừ các hạng tử **cùng bậc** với nhau (tương tự cộng trừ đa thức nhiều biến đã học ở lớp 8, nhưng ở đây chỉ có một biến nên dễ nhóm hơn — có thể đặt tính theo cột dọc, thẳng hàng các hạng tử cùng bậc).
 
-> Ví dụ: P(x) = 2x² + 3x − 1; Q(x) = x² − 5x + 4
-> P(x) + Q(x) = 3x² − 2x + 3
-> P(x) − Q(x) = x² + 8x − 5
+> Ví dụ: $P(x) = 2x^2 + 3x - 1$; $Q(x) = x^2 - 5x + 4$
+> $P(x) + Q(x) = 3x^2 - 2x + 3$
+> $P(x) - Q(x) = x^2 + 8x - 5$
 
 ---
 
@@ -124,7 +124,7 @@ Nếu **a/b = c/d = e/f** thì:
 
 **Quy tắc:** nhân từng hạng tử của đa thức này với từng hạng tử của đa thức kia, rồi cộng gộp các hạng tử cùng bậc.
 
-> Ví dụ: (x+2)(x²−x+1) = x³ − x² + x + 2x² − 2x + 2 = x³ + x² − x + 2
+> Ví dụ: $(x+2)(x^2-x+1) = x^3 - x^2 + x + 2x^2 - 2x + 2 = x^3 + x^2 - x + 2$
 
 ---
 
@@ -132,10 +132,10 @@ Nếu **a/b = c/d = e/f** thì:
 
 **Chia đa thức A(x) cho đa thức B(x) (B(x) ≠ 0):** thực hiện tương tự phép chia số tự nhiên có dư, theo cách **đặt tính chia** từ hạng tử bậc cao nhất.
 
-**Kết quả:** A(x) = B(x) × Q(x) + R(x), trong đó bậc của R(x) nhỏ hơn bậc của B(x) (R(x) là đa thức dư, có thể bằng 0 nếu chia hết).
+**Kết quả:** $A(x) = B(x) \times Q(x) + R(x)$, trong đó bậc của $R(x)$ nhỏ hơn bậc của $B(x)$ ($R(x)$ là đa thức dư, có thể bằng 0 nếu chia hết).
 
-> Ví dụ: chia (x² − 3x + 2) cho (x − 1):
-> x² − 3x + 2 = (x−1)(x−2) + 0 → thương là x−2, dư là 0 (chia hết).
+> Ví dụ: chia $(x^2 - 3x + 2)$ cho $(x - 1)$:
+> $x^2 - 3x + 2 = (x-1)(x-2) + 0 \to$ thương là $x-2$, dư là 0 (chia hết).
 
 ---
 
@@ -173,9 +173,9 @@ Nếu **a/b = c/d = e/f** thì:
 
 **Cách tính xác suất khi các kết quả đồng khả năng:**
 
-**P(biến cố) = (số kết quả thuận lợi) / (tổng số kết quả có thể)**
+**$P(\text{biến cố}) = (\text{số kết quả thuận lợi}) / (\text{tổng số kết quả có thể})$**
 
-> Ví dụ (tiếp bài trên): xác suất "lấy được bi đỏ" = 3/5 = 0,6 (vì có 3 bi đỏ trong tổng 5 bi).
+> Ví dụ (tiếp bài trên): xác suất "lấy được bi đỏ" = $3/5 = 0,6$ (vì có 3 bi đỏ trong tổng 5 bi).
 
 *(Đây là bước làm quen ban đầu — kiến thức này sẽ được học sâu hơn ở các lớp 8, 9 với khái niệm không gian mẫu, kết quả thuận lợi chính xác hơn.)*
 
@@ -218,12 +218,12 @@ Từ một điểm A ở ngoài đường thẳng d, kẻ đường vuông góc 
 ## Bài 33. Quan hệ giữa ba cạnh của một tam giác
 
 **Bất đẳng thức tam giác:** Với tam giác ABC bất kì:
-**|AB − AC| < BC < AB + AC** (và tương tự với các cặp cạnh khác)
+**$|AB - AC| < BC < AB + AC$** (và tương tự với các cặp cạnh khác)
 
 Nói cách khác: **mỗi cạnh của tam giác luôn nhỏ hơn tổng hai cạnh còn lại và lớn hơn hiệu của chúng.**
 
-> Ví dụ: ba đoạn thẳng 3 cm, 4 cm, 9 cm **không thể** tạo thành tam giác vì 3+4=7 < 9 (tổng hai cạnh nhỏ hơn cạnh còn lại — vi phạm bất đẳng thức tam giác).
-> Ba đoạn 5 cm, 6 cm, 8 cm **tạo được** tam giác vì 5+6=11 > 8 (thoả mãn).
+> Ví dụ: ba đoạn thẳng 3 cm, 4 cm, 9 cm **không thể** tạo thành tam giác vì $3+4=7 < 9$ (tổng hai cạnh nhỏ hơn cạnh còn lại — vi phạm bất đẳng thức tam giác).
+> Ba đoạn 5 cm, 6 cm, 8 cm **tạo được** tam giác vì $5+6=11 > 8$ (thoả mãn).
 
 *(Ứng dụng quan trọng: dùng để kiểm tra nhanh xem 3 số cho trước có thể là độ dài 3 cạnh của một tam giác hay không, trước khi giải các bài toán liên quan.)*
 
@@ -232,7 +232,7 @@ Nói cách khác: **mỗi cạnh của tam giác luôn nhỏ hơn tổng hai c�
 ## Bài 34. Sự đồng quy của ba đường trung tuyến, ba đường phân giác trong một tam giác
 
 **Đường trung tuyến:** đoạn thẳng nối một đỉnh với trung điểm cạnh đối diện.
-**Tính chất:** Ba đường trung tuyến của một tam giác cùng đi qua một điểm, gọi là **trọng tâm** của tam giác. Trọng tâm cách mỗi đỉnh một khoảng bằng **2/3** độ dài đường trung tuyến đi qua đỉnh đó.
+**Tính chất:** Ba đường trung tuyến của một tam giác cùng đi qua một điểm, gọi là **trọng tâm** của tam giác. Trọng tâm cách mỗi đỉnh một khoảng bằng **$2/3$** độ dài đường trung tuyến đi qua đỉnh đó.
 
 **Đường phân giác của tam giác:** đoạn thẳng từ một đỉnh chia đôi góc ở đỉnh đó, cắt cạnh đối diện.
 **Tính chất:** Ba đường phân giác của một tam giác cùng đi qua một điểm, gọi là **tâm đường tròn nội tiếp** tam giác (điểm này cách đều 3 cạnh).
@@ -251,7 +251,7 @@ Nói cách khác: **mỗi cạnh của tam giác luôn nhỏ hơn tổng hai c�
 
 | Đường | Điểm đồng quy | Tính chất điểm đó |
 |---|---|---|
-| Trung tuyến | Trọng tâm | Cách đỉnh = 2/3 đường trung tuyến |
+| Trung tuyến | Trọng tâm | Cách đỉnh = $2/3$ đường trung tuyến |
 | Phân giác | Tâm đường tròn nội tiếp | Cách đều 3 cạnh |
 | Trung trực | Tâm đường tròn ngoại tiếp | Cách đều 3 đỉnh |
 | Đường cao | Trực tâm | (không có tính chất khoảng cách đặc biệt) |
@@ -271,22 +271,22 @@ Nói cách khác: **mỗi cạnh của tam giác luôn nhỏ hơn tổng hai c�
 ### Hình hộp chữ nhật
 Có 6 mặt đều là **hình chữ nhật**, các cạnh và góc tương ứng bằng nhau theo từng cặp.
 
-**Công thức (a, b: kích thước đáy; c: chiều cao):**
-- Diện tích xung quanh: **Sxq = 2(a+b) × c**
-- Diện tích toàn phần: **Stp = Sxq + 2ab**
-- Thể tích: **V = a × b × c**
+**Công thức ($a, b$: kích thước đáy; $c$: chiều cao):
+- Diện tích xung quanh: **$S_{xq} = 2(a+b) \times c$**
+- Diện tích toàn phần: **$S_{tp} = S_{xq} + 2ab$**
+- Thể tích: **$V = a \times b \times c$**
 
-> Ví dụ: bể cá hình hộp chữ nhật dài 50 cm, rộng 30 cm, cao 40 cm → V = 50×30×40 = 60.000 cm³ = 60 lít.
+> Ví dụ: bể cá hình hộp chữ nhật dài 50 cm, rộng 30 cm, cao 40 cm $\to V = 50 \times 30 \times 40 = 60.000$ cm³ = 60 lít.
 
 ### Hình lập phương
 Là hình hộp chữ nhật đặc biệt có **6 mặt đều là hình vuông bằng nhau** (cạnh a).
 
-**Công thức (a: cạnh):**
-- Diện tích xung quanh: **Sxq = 4a²**
-- Diện tích toàn phần: **Stp = 6a²**
-- Thể tích: **V = a³**
+**Công thức ($a$: cạnh):
+- Diện tích xung quanh: **$S_{xq} = 4a^2$**
+- Diện tích toàn phần: **$S_{tp} = 6a^2$**
+- Thể tích: **$V = a^3$**
 
-> Ví dụ: khối rubik hình lập phương cạnh 5 cm → V = 5³ = 125 cm³.
+> Ví dụ: khối rubik hình lập phương cạnh 5 cm $\to V = 5^3 = 125$ cm³.
 
 ---
 
@@ -296,14 +296,14 @@ Là hình hộp chữ nhật đặc biệt có **6 mặt đều là hình vuông
 - Đáy là tam giác → **hình lăng trụ đứng tam giác**.
 - Đáy là tứ giác → **hình lăng trụ đứng tứ giác** (hình hộp chữ nhật chính là một trường hợp đặc biệt).
 
-**Công thức chung (S(đáy): diện tích một đáy, C(đáy): chu vi đáy, h: chiều cao lăng trụ):**
-- Diện tích xung quanh: **Sxq = C(đáy) × h**
-- Diện tích toàn phần: **Stp = Sxq + 2×S(đáy)**
-- Thể tích: **V = S(đáy) × h**
+**Công thức chung ($S(\text{đáy})$: diện tích một đáy, $C(\text{đáy})$: chu vi đáy, $h$: chiều cao lăng trụ):
+- Diện tích xung quanh: **$S_{xq} = C(\text{đáy}) \times h$**
+- Diện tích toàn phần: **$S_{tp} = S_{xq} + 2 \times S(\text{đáy})$**
+- Thể tích: **$V = S(\text{đáy}) \times h$**
 
 > Ví dụ: lăng trụ đứng tam giác có đáy là tam giác vuông với 2 cạnh góc vuông 3 cm, 4 cm (cạnh huyền 5 cm), chiều cao lăng trụ 10 cm.
-> S(đáy) = (3×4)/2 = 6 cm²; C(đáy) = 3+4+5 = 12 cm
-> Sxq = 12×10 = 120 cm²; V = 6×10 = 60 cm³
+> $S(\text{đáy}) = (3 \times 4)/2 = 6$ cm²; $C(\text{đáy}) = 3+4+5 = 12$ cm
+> $S_{xq} = 12 \times 10 = 120$ cm²; $V = 6 \times 10 = 60$ cm³
 
 > Minh hoạ thực tế: lăng trụ đứng tam giác giống mái nhà hình chữ A cắt ngang, hộp bánh kẹo hình tam giác; lăng trụ đứng tứ giác giống các hộp quà, bao diêm, viên gạch.
 

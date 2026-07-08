@@ -16,20 +16,20 @@
 
 ## Bài 1. Tập hợp các số hữu tỉ
 
-**Định nghĩa:** **Số hữu tỉ** là số viết được dưới dạng phân số **a/b** với a, b ∈ Z, b ≠ 0. Tập hợp số hữu tỉ kí hiệu là **Q**.
+**Định nghĩa:** **Số hữu tỉ** là số viết được dưới dạng phân số **$a/b$** với $a, b \in \mathbb{Z}, b \neq 0$. Tập hợp số hữu tỉ kí hiệu là **$\mathbb{Q}$**.
 
-> Ví dụ: 3/4; −5; 0,25 (vì = 1/4); 2⅓ (vì = 7/3) đều là số hữu tỉ.
+> Ví dụ: $3/4$; $-5$; $0,25$ (vì $= 1/4$); $2\frac{1}{3}$ (vì $= 7/3$) đều là số hữu tỉ.
 
-**Mối quan hệ giữa các tập hợp số:** N ⊂ Z ⊂ Q (số tự nhiên là số nguyên, số nguyên là số hữu tỉ).
+**Mối quan hệ giữa các tập hợp số:** $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q}$ (số tự nhiên là số nguyên, số nguyên là số hữu tỉ).
 
 **Biểu diễn số hữu tỉ trên trục số:** tương tự số nguyên, mỗi số hữu tỉ ứng với một điểm trên trục số; cần chia nhỏ đơn vị để biểu diễn các phân số.
 
-> Ví dụ: để biểu diễn 3/4, chia đoạn từ 0 đến 1 thành 4 phần bằng nhau, điểm biểu diễn 3/4 là điểm thứ 3 tính từ 0.
+> Ví dụ: để biểu diễn $3/4$, chia đoạn từ 0 đến 1 thành 4 phần bằng nhau, điểm biểu diễn $3/4$ là điểm thứ 3 tính từ 0.
 
-**Số đối của số hữu tỉ a/b là −a/b**, kí hiệu chung là −(a/b).
+**Số đối của số hữu tỉ $a/b$ là $-a/b$**, kí hiệu chung là $-(a/b)$.
 
 **So sánh hai số hữu tỉ:** đưa về cùng mẫu dương rồi so sánh tử số (giống so sánh phân số).
-> Ví dụ: so sánh −2/3 và −3/4 → quy đồng: −8/12 và −9/12 → vì −8 > −9 nên −2/3 > −3/4.
+> Ví dụ: so sánh $-2/3$ và $-3/4 \to$ quy đồng: $-8/12$ và $-9/12 \to$ vì $-8 > -9$ nên $-2/3 > -3/4$.
 
 **Chú ý:** mọi số hữu tỉ dương đều lớn hơn 0 và lớn hơn mọi số hữu tỉ âm; số hữu tỉ âm luôn nhỏ hơn 0.
 
@@ -40,13 +40,13 @@
 Vì số hữu tỉ chính là phân số (mở rộng), nên các phép tính thực hiện **giống hệt quy tắc với phân số** đã học ở lớp 6, chỉ khác là các số có thể âm nên cần chú ý dấu.
 
 **Cộng, trừ:** quy đồng mẫu số (mẫu dương) rồi cộng/trừ tử số.
-> Ví dụ: −1/2 + 2/3 = −3/6 + 4/6 = 1/6
+> Ví dụ: $-1/2 + 2/3 = -3/6 + 4/6 = 1/6$
 
 **Nhân:** nhân tử với tử, mẫu với mẫu.
-> Ví dụ: (−2/3) × (3/4) = −6/12 = −1/2
+> Ví dụ: $(-2/3) \times (3/4) = -6/12 = -1/2$
 
 **Chia:** nhân với phân số nghịch đảo của số chia.
-> Ví dụ: (−2/3) : (4/5) = (−2/3) × (5/4) = −10/12 = −5/6
+> Ví dụ: $(-2/3) : (4/5) = (-2/3) \times (5/4) = -10/12 = -5/6$
 
 **Tính chất:** giao hoán, kết hợp, phân phối của phép nhân với phép cộng, cộng/nhân với số đối và số 1 — như đã học với số nguyên và phân số.
 
@@ -56,16 +56,16 @@ Vì số hữu tỉ chính là phân số (mở rộng), nên các phép tính t
 
 ## Bài 3. Luỹ thừa với số mũ tự nhiên của một số hữu tỉ
 
-**Định nghĩa:** xⁿ = x × x × ... × x (n thừa số x), với x ∈ Q, n ∈ N, n > 1. Quy ước x¹ = x, x⁰ = 1 (x ≠ 0).
+**Định nghĩa:** $x^n = x \times x \times \ldots \times x$ (n thừa số x), với $x \in \mathbb{Q}, n \in \mathbb{N}, n > 1$. Quy ước $x^1 = x$, $x^0 = 1$ ($x \neq 0$).
 
 **Các công thức tính:**
-- xᵐ × xⁿ = xᵐ⁺ⁿ
-- xᵐ : xⁿ = xᵐ⁻ⁿ (x ≠ 0, m ≥ n)
-- **(xᵐ)ⁿ = xᵐ×ⁿ** *(luỹ thừa của luỹ thừa — điểm mới so với lớp 6)*
-- (x × y)ⁿ = xⁿ × yⁿ
-- (x : y)ⁿ = xⁿ : yⁿ (y ≠ 0)
+- $x^m \times x^n = x^{m+n}$
+- $x^m : x^n = x^{m-n}$ ($x \neq 0$, $m \ge n$)
+- **$(x^m)^n = x^{m \times n}$** *(luỹ thừa của luỹ thừa — điểm mới so với lớp 6)*
+- $(x \times y)^n = x^n \times y^n$
+- $(x : y)^n = x^n : y^n$ ($y \neq 0$)
 
-> Ví dụ: (2/3)² = 4/9; ((−2)³)² = (−2)⁶ = 64; (2×3)² = 2² × 3² = 4×9 = 36
+> Ví dụ: $(2/3)^2 = 4/9$; $((-2)^3)^2 = (-2)^6 = 64$; $(2 \times 3)^2 = 2^2 \times 3^2 = 4 \times 9 = 36$
 
 ---
 
@@ -76,10 +76,10 @@ Vì số hữu tỉ chính là phân số (mở rộng), nên các phép tính t
 **Quy tắc chuyển vế (kiến thức mới, rất quan trọng cho việc giải phương trình sau này):**
 > Khi chuyển một số hạng từ vế này sang vế kia của một đẳng thức, ta phải **đổi dấu số hạng đó**.
 
-Nếu a + b = c thì **a = c − b**
+Nếu $a + b = c$ thì **$a = c - b$**
 
-> Ví dụ minh hoạ: Tìm x biết x + 2/3 = 1/2
-> x = 1/2 − 2/3 = 3/6 − 4/6 = −1/6
+> Ví dụ minh hoạ: Tìm x biết $x + 2/3 = 1/2$
+> $x = 1/2 - 2/3 = 3/6 - 4/6 = -1/6$
 
 *(Ghi nhớ trực quan: giống như "cân thăng bằng" — muốn giữ cân bằng khi dời một vật từ đĩa cân này sang đĩa kia, phải đổi "dấu" của vật đó, tức là trừ đi thay vì cộng vào.)*
 
@@ -96,10 +96,10 @@ Nếu a + b = c thì **a = c − b**
 ## Bài 5. Làm quen với số thập phân vô hạn tuần hoàn
 
 **Số thập phân hữu hạn:** số thập phân có số chữ số ở phần thập phân là hữu hạn.
-> Ví dụ: 1/4 = 0,25
+> Ví dụ: $1/4 = 0,25$
 
 **Số thập phân vô hạn tuần hoàn:** số thập phân có phần thập phân lặp lại vô hạn một hoặc một nhóm chữ số, gọi là **chu kì**.
-> Ví dụ: 1/3 = 0,333... = 0,(3) (chu kì là 3); 5/6 = 0,8333... = 0,8(3)
+> Ví dụ: $1/3 = 0,333\ldots = 0,(3)$ (chu kì là 3); $5/6 = 0,8333\ldots = 0,8(3)$
 
 **Kết luận quan trọng:** **mọi số hữu tỉ đều viết được dưới dạng số thập phân hữu hạn hoặc vô hạn tuần hoàn**, và ngược lại — đây chính là dấu hiệu nhận biết một số có phải số hữu tỉ hay không.
 
@@ -109,10 +109,10 @@ Nếu a + b = c thì **a = c − b**
 
 **Số vô tỉ:** là số viết được dưới dạng số thập phân **vô hạn KHÔNG tuần hoàn**. Không viết được dưới dạng phân số a/b.
 
-> Ví dụ nổi tiếng: số π = 3,14159265... (vô hạn không tuần hoàn); √2 = 1,41421356... cũng là một số vô tỉ.
+> Ví dụ nổi tiếng: số $\pi = 3,14159265\ldots$ (vô hạn không tuần hoàn); $\sqrt{2} = 1,41421356\ldots$ cũng là một số vô tỉ.
 
-**Căn bậc hai số học của một số a ≥ 0** là số **x ≥ 0** sao cho x² = a, kí hiệu **√a**.
-> Ví dụ: √16 = 4; √2 là số vô tỉ (không có phân số nào bình phương lên đúng bằng 2).
+**Căn bậc hai số học của một số $a \ge 0$** là số **$x \ge 0$** sao cho $x^2 = a$, kí hiệu **$\sqrt{a}$**.
+> Ví dụ: $\sqrt{16} = 4$; $\sqrt{2}$ là số vô tỉ (không có phân số nào bình phương lên đúng bằng 2).
 
 *(Ghi nhớ: căn bậc hai của một số chính phương (1, 4, 9, 16, 25...) là số hữu tỉ; căn bậc hai của số không chính phương thường là số vô tỉ.)*
 
@@ -120,7 +120,7 @@ Nếu a + b = c thì **a = c − b**
 
 ## Bài 7. Tập hợp các số thực
 
-**Số thực:** bao gồm **tất cả số hữu tỉ và số vô tỉ**, kí hiệu **R**.
+**Số thực:** bao gồm **tất cả số hữu tỉ và số vô tỉ**, kí hiệu **$\mathbb{R}$**.
 
 **Quan hệ giữa các tập hợp số (rất quan trọng, nên nhớ sơ đồ):**
 ```
@@ -132,13 +132,13 @@ Z(nguyên) phân số không nguyên
  /    \
 N   nguyên âm
 ```
-N ⊂ Z ⊂ Q ⊂ R
+$\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$
 
 **Trục số thực:** mỗi số thực (kể cả số vô tỉ) đều biểu diễn được bởi đúng một điểm trên trục số, và ngược lại — trục số được "lấp đầy" hoàn toàn bởi các điểm biểu diễn số thực (không còn "khoảng trống" nào như khi chỉ có số hữu tỉ).
 
 **So sánh hai số thực:** viết dưới dạng số thập phân (hữu hạn, vô hạn tuần hoàn hoặc không tuần hoàn) rồi so sánh như so sánh số thập phân đã học.
 
-**Giá trị tuyệt đối của số thực a**, kí hiệu |a|: bằng a nếu a ≥ 0, bằng −a nếu a < 0. Về hình học, |a| là khoảng cách từ điểm a đến điểm 0 trên trục số.
+**Giá trị tuyệt đối của số thực a**, kí hiệu $|a|$: bằng a nếu $a \ge 0$, bằng $-a$ nếu $a < 0$. Về hình học, $|a|$ là khoảng cách từ điểm a đến điểm 0 trên trục số.
 
 ---
 
@@ -152,7 +152,7 @@ N ⊂ Z ⊂ Q ⊂ R
 
 ## Bài 8. Góc ở vị trí đặc biệt. Tia phân giác của một góc
 
-**Hai góc kề bù:** hai góc kề nhau (chung đỉnh, chung 1 cạnh) có tổng số đo bằng 180°.
+**Hai góc kề bù:** hai góc kề nhau (chung đỉnh, chung 1 cạnh) có tổng số đo bằng $180°$.
 
 **Hai góc đối đỉnh:** mỗi cạnh của góc này là tia đối của một cạnh góc kia. **Tính chất: hai góc đối đỉnh thì bằng nhau.**
 
@@ -160,7 +160,7 @@ N ⊂ Z ⊂ Q ⊂ R
 
 **Tia phân giác của một góc:** tia nằm trong góc và tạo với hai cạnh của góc hai góc bằng nhau (mỗi góc bằng một nửa góc ban đầu).
 
-> Ví dụ: tia Oz là phân giác của góc xOy (60°) thì góc xOz = góc zOy = 30°.
+> Ví dụ: tia Oz là phân giác của góc xOy ($60°$) thì góc xOz = góc zOy = $30°$.
 
 ---
 
@@ -184,7 +184,7 @@ N ⊂ Z ⊂ Q ⊂ R
 **Tính chất (chiều ngược lại của dấu hiệu nhận biết ở Bài 9):** Nếu hai đường thẳng song song bị cắt bởi một cát tuyến thì:
 - Hai góc so le trong **bằng nhau**.
 - Hai góc đồng vị **bằng nhau**.
-- Hai góc trong cùng phía **bù nhau** (tổng bằng 180°).
+- Hai góc trong cùng phía **bù nhau** (tổng bằng $180°$).
 
 ---
 
@@ -214,13 +214,13 @@ N ⊂ Z ⊂ Q ⊂ R
 
 ## Bài 12. Tổng các góc trong một tam giác
 
-**Định lí:** **Tổng ba góc trong một tam giác bằng 180°.**
+**Định lí:** **Tổng ba góc trong một tam giác bằng $180°$.**
 
-> Ví dụ: tam giác có 2 góc là 50° và 70° → góc còn lại = 180 − 50 − 70 = 60°.
+> Ví dụ: tam giác có 2 góc là $50°$ và $70° \to$ góc còn lại = $180 - 50 - 70 = 60°$.
 
 **Góc ngoài của tam giác:** góc kề bù với một góc trong của tam giác.
 **Tính chất góc ngoài:** mỗi góc ngoài của tam giác **bằng tổng hai góc trong không kề với nó**.
-> Ví dụ: tam giác ABC có góc A=50°, góc B=70° → góc ngoài tại đỉnh C = 50+70 = 120°.
+> Ví dụ: tam giác ABC có góc $A=50°$, góc $B=70° \to$ góc ngoài tại đỉnh C = $50+70 = 120°$.
 
 ---
 
@@ -263,7 +263,7 @@ Nhờ có sẵn 1 góc vuông bằng nhau, tam giác vuông có thêm các trư�
 **Tam giác cân:** tam giác có hai cạnh bằng nhau (hai cạnh đó gọi là **cạnh bên**, cạnh còn lại là **cạnh đáy**).
 **Tính chất:** trong tam giác cân, **hai góc ở đáy bằng nhau**.
 
-**Tam giác đều:** tam giác có 3 cạnh bằng nhau (là trường hợp đặc biệt của tam giác cân) → cả 3 góc đều bằng 60°.
+**Tam giác đều:** tam giác có 3 cạnh bằng nhau (là trường hợp đặc biệt của tam giác cân) $\to$ cả 3 góc đều bằng $60°$.
 
 **Đường trung trực của đoạn thẳng AB:** đường thẳng vuông góc với AB tại trung điểm của AB.
 **Tính chất đường trung trực:** mọi điểm nằm trên đường trung trực của AB đều **cách đều** hai điểm A và B.
@@ -298,7 +298,7 @@ Nhờ có sẵn 1 góc vuông bằng nhau, tam giác vuông có thêm các trư�
 
 **Cách đọc biểu đồ:** phần quạt càng lớn (góc ở tâm càng lớn) thì tỉ lệ càng cao; tổng tất cả các phần luôn bằng 100%.
 
-> Ví dụ: biểu đồ hình quạt thể hiện tỉ lệ các loại trái cây yêu thích của học sinh: Cam 30%, Xoài 25%, Chuối 20%, Khác 25% — mỗi loại chiếm một hình quạt tương ứng với tỉ lệ đó trên hình tròn.
+> Ví dụ: biểu đồ hình quạt thể hiện tỉ lệ các loại trái cây yêu thích của học sinh: Cam $30\%$, Xoài $25\%$, Chuối $20\%$, Khác $25\%$ — mỗi loại chiếm một hình quạt tương ứng với tỉ lệ đó trên hình tròn.
 
 ---
 

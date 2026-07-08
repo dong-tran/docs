@@ -53,13 +53,14 @@
 **Mol** là đơn vị đo lượng chất, chứa **6,022 × 10²³ hạt** (nguyên tử, phân tử...) — gọi là **số Avogadro**.
 
 **Công thức chuyển đổi cơ bản (n: số mol, m: khối lượng, M: khối lượng mol):**
-**n = m / M**   (đơn vị: mol, gam, g/mol)
+$$n = \frac{m}{M}$$
+(đơn vị: mol, gam, g/mol)
 
 **Thể tích mol chất khí:** ở điều kiện chuẩn (đkc, 25°C, 1 bar), 1 mol khí bất kì chiếm thể tích khoảng **24,79 lít** (thường làm tròn 24,79 ≈ 24,8 L).
-**n = V / 24,79**
+$$n = \frac{V}{24,79}$$
 
-**Tỉ khối của khí A so với khí B:** d(A/B) = M(A) / M(B)
-> Ví dụ: tỉ khối của khí CO₂ (M=44) so với khí H₂ (M=2) là 44/2 = 22 → khí CO₂ nặng gấp 22 lần khí H₂.
+**Tỉ khối của khí A so với khí B:** $$d(A/B) = \frac{M(A)}{M(B)}$$
+> Ví dụ: tỉ khối của khí CO₂ (M=44) so với khí H₂ (M=2) là $\frac{44}{2} = 22$ → khí CO₂ nặng gấp 22 lần khí H₂.
 
 ---
 
@@ -69,12 +70,13 @@
 - **Độ tan** (S): số gam chất tan tan tối đa trong 100g dung môi (thường là nước) ở một nhiệt độ xác định để tạo dung dịch bão hoà.
 
 **Nồng độ phần trăm (C%):**
-**C% = (m(chất tan) / m(dung dịch)) × 100%**
+$$C\% = \frac{m(\text{chất tan})}{m(\text{dung dịch})} \times 100\%$$
 
 **Nồng độ mol (CM):**
-**CM = n / V**  (n: số mol chất tan, V: thể tích dung dịch tính bằng lít, đơn vị mol/L)
+$$C_M = \frac{n}{V}$$
+(n: số mol chất tan, V: thể tích dung dịch tính bằng lít, đơn vị mol/L)
 
-> Ví dụ: hoà tan 20g muối vào 80g nước → dung dịch có khối lượng 100g → C% = 20/100×100% = 20%.
+> Ví dụ: hoà tan 20g muối vào 80g nước → dung dịch có khối lượng 100g → $C\% = \frac{20}{100} \times 100\% = 20\%$.
 
 ---
 
@@ -125,7 +127,7 @@ Nội dung trọng tâm: biến đổi vật lí/hoá học, phản ứng hoá h
 
 ## Bài 8. Acid
 
-**Acid:** hợp chất trong phân tử có nguyên tử **hydrogen (H)** liên kết với gốc acid; khi tan trong nước phân li ra ion **H⁺**.
+**Acid:** hợp chất trong phân tử có nguyên tử **hydrogen (H)** liên kết với gốc acid; khi tan trong nước phân li ra ion $H^+$.
 
 **Tính chất hoá học chung của acid:**
 - Làm quỳ tím hoá **đỏ**.
@@ -141,7 +143,7 @@ Nội dung trọng tâm: biến đổi vật lí/hoá học, phản ứng hoá h
 
 ## Bài 9. Base. Thang pH
 
-**Base:** hợp chất mà phân tử có một nguyên tử kim loại liên kết với một hay nhiều nhóm **hydroxide (OH)**; khi tan trong nước phân li ra ion **OH⁻**.
+**Base:** hợp chất mà phân tử có một nguyên tử kim loại liên kết với một hay nhiều nhóm **hydroxide (OH)**; khi tan trong nước phân li ra ion $OH^-$.
 
 **Tính chất hoá học chung của base (tan):**
 - Làm quỳ tím hoá **xanh**, làm dung dịch phenolphthalein không màu hoá **hồng**.
@@ -149,11 +151,11 @@ Nội dung trọng tâm: biến đổi vật lí/hoá học, phản ứng hoá h
 - Dung dịch base tác dụng với một số oxide acid, một số dung dịch muối.
 
 **Thang pH:** đo độ acid/base của dung dịch, giá trị từ 0 đến 14:
-- pH < 7: dung dịch có tính **acid**.
-- pH = 7: dung dịch **trung tính** (ví dụ: nước cất).
-- pH > 7: dung dịch có tính **base**.
+- $pH < 7$: dung dịch có tính **acid**.
+- $pH = 7$: dung dịch **trung tính** (ví dụ: nước cất).
+- $pH > 7$: dung dịch có tính **base**.
 
-> Ví dụ thực tế: nước chanh có pH thấp (acid); xà phòng, nước vôi trong có pH cao (base); máu người có pH ≈ 7,35–7,45 (hơi kiềm nhẹ, gần trung tính).
+> Ví dụ thực tế: nước chanh có pH thấp (acid); xà phòng, nước vôi trong có pH cao (base); máu người có $pH \approx 7,35–7,45$ (hơi kiềm nhẹ, gần trung tính).
 
 ---
 
@@ -175,7 +177,7 @@ Nội dung trọng tâm: biến đổi vật lí/hoá học, phản ứng hoá h
 
 ## Bài 11. Muối
 
-**Muối:** hợp chất mà phân tử gồm **kim loại (hoặc gốc NH₄⁺) liên kết với gốc acid**.
+**Muối:** hợp chất mà phân tử gồm **kim loại (hoặc gốc $NH_4^+$) liên kết với gốc acid**.
 
 **Tính chất hoá học của muối:**
 - Tác dụng với một số **acid** → tạo muối mới và acid mới.
@@ -215,9 +217,9 @@ Nội dung trọng tâm: định nghĩa và tính chất hoá học của acid, 
 
 **Khối lượng riêng (D)** của một chất là khối lượng của một đơn vị thể tích chất đó.
 
-**Công thức:** **D = m / V** (D: khối lượng riêng - kg/m³ hoặc g/cm³; m: khối lượng - kg; V: thể tích - m³)
+**Công thức:** $$D = \frac{m}{V}$$ (D: khối lượng riêng - kg/m³ hoặc g/cm³; m: khối lượng - kg; V: thể tích - m³)
 
-> Ví dụ: một khối sắt có khối lượng 7800 kg, thể tích 1 m³ → D(sắt) = 7800 kg/m³.
+> Ví dụ: một khối sắt có khối lượng 7800 kg, thể tích 1 m³ → $D(\text{sắt}) = 7800 \text{ kg/m}^3$.
 
 **Ứng dụng:** xác định vật đặc hay rỗng, chất nào nổi/chìm trong chất lỏng khác (vật có khối lượng riêng nhỏ hơn chất lỏng sẽ nổi).
 
@@ -238,7 +240,7 @@ Nội dung trọng tâm: định nghĩa và tính chất hoá học của acid, 
 
 **Áp suất (p):** độ lớn của áp lực trên một đơn vị diện tích bị ép.
 
-**Công thức:** **p = F / S** (p: áp suất - Pa hay N/m²; F: áp lực - N; S: diện tích bị ép - m²)
+**Công thức:** $$p = \frac{F}{S}$$ (p: áp suất - Pa hay N/m²; F: áp lực - N; S: diện tích bị ép - m²)
 
 > Ví dụ: cùng một lực nhưng mũi đinh nhọn (diện tích nhỏ) tạo áp suất lớn hơn nhiều so với đầu búa (diện tích lớn) — đó là lí do đinh dễ xuyên qua vật liệu.
 
@@ -250,7 +252,7 @@ Nội dung trọng tâm: định nghĩa và tính chất hoá học của acid, 
 
 **Áp suất chất lỏng:** chất lỏng gây áp suất theo **mọi phương** lên các vật đặt trong nó và lên thành bình chứa.
 
-**Công thức:** **p = d × h** (d: trọng lượng riêng chất lỏng - N/m³; h: độ sâu tính từ mặt thoáng - m)
+**Công thức:** $$p = d \times h$$ (d: trọng lượng riêng chất lỏng - N/m³; h: độ sâu tính từ mặt thoáng - m)
 
 > Ví dụ: càng lặn sâu xuống nước, áp suất tác dụng lên cơ thể càng lớn (do h tăng) — đây là lí do thợ lặn sâu cần thiết bị bảo hộ đặc biệt.
 
@@ -264,7 +266,7 @@ Nội dung trọng tâm: định nghĩa và tính chất hoá học của acid, 
 
 **Lực đẩy Ác-si-mét (lực đẩy của chất lỏng lên vật nhúng trong nó):** một vật nhúng trong chất lỏng bị chất lỏng đẩy thẳng đứng từ dưới lên với lực có độ lớn bằng **trọng lượng phần chất lỏng mà vật chiếm chỗ**.
 
-**Công thức:** **F(đẩy) = d × V** (d: trọng lượng riêng chất lỏng; V: thể tích phần chất lỏng bị vật chiếm chỗ)
+**Công thức:** $$F_{\text{đẩy}} = d \times V$$ (d: trọng lượng riêng chất lỏng; V: thể tích phần chất lỏng bị vật chiếm chỗ)
 
 **Điều kiện vật nổi, chìm, lơ lửng:**
 - Vật **nổi** khi lực đẩy Ác-si-mét lớn hơn trọng lượng vật.
@@ -289,7 +291,7 @@ Nội dung trọng tâm: công thức khối lượng riêng, áp suất chất 
 
 **Moment lực (M):** đại lượng đặc trưng cho tác dụng làm quay của lực quanh một trục.
 
-**Công thức:** **M = F × d** (F: độ lớn lực - N; d: cánh tay đòn, tức khoảng cách vuông góc từ trục quay đến giá của lực - m; M: đơn vị N.m)
+**Công thức:** $$M = F \times d$$ (F: độ lớn lực - N; d: cánh tay đòn, tức khoảng cách vuông góc từ trục quay đến giá của lực - m; M: đơn vị N.m)
 
 > Ví dụ: dùng cờ lê vặn ốc, tay cầm càng dài (d lớn) thì cần lực F càng nhỏ để tạo cùng một moment lực → vặn ốc dễ dàng hơn.
 
@@ -367,12 +369,12 @@ Nội dung trọng tâm: khái niệm moment lực, công thức M = F×d, quy t
 ## Bài 24. Cường độ dòng điện và hiệu điện thế trong đoạn mạch nối tiếp, song song
 
 **Đoạn mạch nối tiếp:**
-- I = I₁ = I₂ = ... (cường độ dòng điện bằng nhau tại mọi điểm)
-- U = U₁ + U₂ + ... (hiệu điện thế toàn mạch bằng tổng hiệu điện thế từng phần)
+- $I = I_1 = I_2 = ...$ (cường độ dòng điện bằng nhau tại mọi điểm)
+- $U = U_1 + U_2 + ...$ (hiệu điện thế toàn mạch bằng tổng hiệu điện thế từng phần)
 
 **Đoạn mạch song song:**
-- I = I₁ + I₂ + ... (cường độ dòng điện mạch chính bằng tổng cường độ các nhánh)
-- U = U₁ = U₂ = ... (hiệu điện thế hai đầu các nhánh bằng nhau)
+- $I = I_1 + I_2 + ...$ (cường độ dòng điện mạch chính bằng tổng cường độ các nhánh)
+- $U = U_1 = U_2 = ...$ (hiệu điện thế hai đầu các nhánh bằng nhau)
 
 > Ví dụ: hai bóng đèn mắc nối tiếp có cùng dòng điện chạy qua (nếu 1 bóng hỏng, cả mạch bị ngắt); mắc song song thì mỗi bóng có thể hoạt động độc lập (1 bóng hỏng, bóng còn lại vẫn sáng) — đây là lí do mạng điện trong nhà thường mắc song song.
 
@@ -521,7 +523,7 @@ Nội dung trọng tâm: nội năng, năng lượng nhiệt, ba hình thức tr
 
 **Môi trường trong cơ thể:** gồm máu, nước mô, bạch huyết, bao quanh và trao đổi chất trực tiếp với tế bào.
 
-**Cân bằng nội môi:** cơ thể luôn có cơ chế điều hoà để giữ các chỉ số môi trường trong (như nồng độ đường huyết, nhiệt độ, pH máu...) ở mức ổn định, dù điều kiện bên ngoài thay đổi.
+**Cân bằng nội môi:** cơ thể luôn có cơ chế điều hoà để giữ các chỉ số môi trường trong (như nồng độ đường huyết, nhiệt độ, $pH$ máu...) ở mức ổn định, dù điều kiện bên ngoài thay đổi.
 
 > Ví dụ: sau bữa ăn, đường huyết tăng lên, cơ thể tiết hormone insulin giúp đưa đường huyết trở về mức ổn định.
 

@@ -18,20 +18,20 @@
 
 **Đơn thức:** biểu thức đại số chỉ gồm một số, hoặc một biến, hoặc một tích giữa các số và các biến.
 
-> Ví dụ: 5x²y, −3xy³, 7, x là các đơn thức.
+> Ví dụ: $5x^2y$, $-3xy^3$, $7$, $x$ là các đơn thức.
 
 **Đơn thức thu gọn:** đơn thức chỉ gồm tích của một số với các biến, mỗi biến chỉ xuất hiện một lần dưới dạng một luỹ thừa với số mũ nguyên dương.
 - **Hệ số:** phần số trong đơn thức thu gọn.
 - **Phần biến:** phần còn lại (các biến và số mũ).
 - **Bậc của đơn thức:** tổng số mũ của tất cả các biến.
 
-> Ví dụ: 4x³y² có hệ số 4, phần biến x³y², bậc = 3+2 = 5.
+> Ví dụ: $4x^3y^2$ có hệ số 4, phần biến $x^3y^2$, bậc = $3+2 = 5$.
 
 **Đơn thức đồng dạng:** hai đơn thức có hệ số khác 0 và có cùng phần biến.
-> Ví dụ: 2x²y và −5x²y là hai đơn thức đồng dạng (cùng phần biến x²y).
+> Ví dụ: $2x^2y$ và $-5x^2y$ là hai đơn thức đồng dạng (cùng phần biến $x^2y$).
 
 **Cộng, trừ đơn thức đồng dạng:** cộng/trừ các hệ số, giữ nguyên phần biến.
-> Ví dụ: 2x²y + (−5x²y) = −3x²y
+> Ví dụ: $2x^2y + (-5x^2y) = -3x^2y$
 
 ---
 
@@ -39,12 +39,12 @@
 
 **Đa thức:** tổng của hai hay nhiều đơn thức (mỗi đơn thức trong tổng gọi là một **hạng tử**).
 
-> Ví dụ: 3x² − 2xy + 5 là một đa thức gồm 3 hạng tử.
+> Ví dụ: $3x^2 - 2xy + 5$ là một đa thức gồm 3 hạng tử.
 
 **Đa thức thu gọn:** đa thức không chứa hai hạng tử nào đồng dạng — có được bằng cách cộng gộp các hạng tử đồng dạng lại với nhau.
 
 **Bậc của đa thức (thu gọn):** bậc cao nhất trong các hạng tử của nó.
-> Ví dụ: đa thức 3x²y − 2xy³ + 5 có bậc 4 (do hạng tử −2xy³ có bậc 1+3=4).
+> Ví dụ: đa thức $3x^2y - 2xy^3 + 5$ có bậc 4 (do hạng tử $-2xy^3$ có bậc $1+3=4$).
 
 ---
 
@@ -54,18 +54,18 @@
 
 **Trừ hai đa thức:** cộng đa thức thứ nhất với **đa thức đối** của đa thức thứ hai (đổi dấu tất cả hạng tử của đa thức bị trừ).
 
-> Ví dụ: (3x² + 2x − 1) + (x² − 5x + 4) = 4x² − 3x + 3
-> (3x² + 2x − 1) − (x² − 5x + 4) = 3x² + 2x − 1 − x² + 5x − 4 = 2x² + 7x − 5
+> Ví dụ: $(3x^2 + 2x - 1) + (x^2 - 5x + 4) = 4x^2 - 3x + 3$
+> $(3x^2 + 2x - 1) - (x^2 - 5x + 4) = 3x^2 + 2x - 1 - x^2 + 5x - 4 = 2x^2 + 7x - 5$
 
 ---
 
 ## Bài 4. Phép nhân đa thức
 
 **Nhân đơn thức với đa thức:** nhân đơn thức với từng hạng tử của đa thức rồi cộng các kết quả (dùng tính chất phân phối).
-> Ví dụ: 2x(3x² − 4x + 1) = 6x³ − 8x² + 2x
+> Ví dụ: $2x(3x^2 - 4x + 1) = 6x^3 - 8x^2 + 2x$
 
 **Nhân đa thức với đa thức:** nhân mỗi hạng tử của đa thức này với từng hạng tử của đa thức kia rồi cộng tất cả các tích lại, sau đó thu gọn.
-> Ví dụ: (x+2)(x−3) = x×x + x×(−3) + 2×x + 2×(−3) = x² − 3x + 2x − 6 = x² − x − 6
+> Ví dụ: $(x+2)(x-3) = x \times x + x \times (-3) + 2 \times x + 2 \times (-3) = x^2 - 3x + 2x - 6 = x^2 - x - 6$
 
 ---
 
@@ -75,7 +75,7 @@
 
 **Quy tắc:** chia từng hạng tử của đa thức cho đơn thức, rồi cộng các kết quả.
 
-> Ví dụ: (6x³ − 9x² + 3x) : 3x = 6x³:3x − 9x²:3x + 3x:3x = 2x² − 3x + 1
+> Ví dụ: $(6x^3 - 9x^2 + 3x) : 3x = 6x^3:3x - 9x^2:3x + 3x:3x = 2x^2 - 3x + 1$
 
 ---
 
@@ -91,11 +91,11 @@
 
 **Ba hằng đẳng thức đầu tiên (cần thuộc lòng — nền tảng của cả chương):**
 
-1. **Hiệu hai bình phương:** a² − b² = (a − b)(a + b)
-2. **Bình phương của một tổng:** (a + b)² = a² + 2ab + b²
-3. **Bình phương của một hiệu:** (a − b)² = a² − 2ab + b²
+1. **Hiệu hai bình phương:** $a^2 - b^2 = (a - b)(a + b)$
+2. **Bình phương của một tổng:** $(a + b)^2 = a^2 + 2ab + b^2$
+3. **Bình phương của một hiệu:** $(a - b)^2 = a^2 - 2ab + b^2$
 
-> Ví dụ: (x+3)² = x² + 6x + 9; (2x−1)² = 4x² − 4x + 1; x² − 9 = (x−3)(x+3)
+> Ví dụ: $(x+3)^2 = x^2 + 6x + 9$; $(2x-1)^2 = 4x^2 - 4x + 1$; $x^2 - 9 = (x-3)(x+3)$
 
 *(Mẹo nhớ: "bình phương số đầu, cộng/trừ hai lần tích, cộng bình phương số sau".)*
 
@@ -103,10 +103,10 @@
 
 ## Bài 7. Lập phương của một tổng. Lập phương của một hiệu
 
-4. **Lập phương của một tổng:** (a + b)³ = a³ + 3a²b + 3ab² + b³
-5. **Lập phương của một hiệu:** (a − b)³ = a³ − 3a²b + 3ab² − b³
+4. **Lập phương của một tổng:** $(a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$
+5. **Lập phương của một hiệu:** $(a - b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$
 
-> Ví dụ: (x+1)³ = x³ + 3x² + 3x + 1; (x−2)³ = x³ − 6x² + 12x − 8
+> Ví dụ: $(x+1)^3 = x^3 + 3x^2 + 3x + 1$; $(x-2)^3 = x^3 - 6x^2 + 12x - 8$
 
 *(Mẹo nhớ hệ số 1-3-3-1: chính là hàng thứ 3 trong tam giác Pascal.)*
 
@@ -114,22 +114,22 @@
 
 ## Bài 8. Tổng và hiệu hai lập phương
 
-6. **Tổng hai lập phương:** a³ + b³ = (a + b)(a² − ab + b²)
-7. **Hiệu hai lập phương:** a³ − b³ = (a − b)(a² + ab + b²)
+6. **Tổng hai lập phương:** $a^3 + b^3 = (a + b)(a^2 - ab + b^2)$
+7. **Hiệu hai lập phương:** $a^3 - b^3 = (a - b)(a^2 + ab + b^2)$
 
-> Ví dụ: x³ + 8 = x³ + 2³ = (x+2)(x²−2x+4); 27x³ − 1 = (3x)³ − 1³ = (3x−1)(9x²+3x+1)
+> Ví dụ: $x^3 + 8 = x^3 + 2^3 = (x+2)(x^2-2x+4)$; $27x^3 - 1 = (3x)^3 - 1^3 = (3x-1)(9x^2+3x+1)$
 
 **Bảng tổng hợp 7 hằng đẳng thức đáng nhớ (tra cứu nhanh):**
 
 | STT | Hằng đẳng thức |
 |---|---|
-| 1 | a² − b² = (a−b)(a+b) |
-| 2 | (a+b)² = a² + 2ab + b² |
-| 3 | (a−b)² = a² − 2ab + b² |
-| 4 | (a+b)³ = a³ + 3a²b + 3ab² + b³ |
-| 5 | (a−b)³ = a³ − 3a²b + 3ab² − b³ |
-| 6 | a³ + b³ = (a+b)(a² − ab + b²) |
-| 7 | a³ − b³ = (a−b)(a² + ab + b²) |
+| 1 | $a^2 - b^2 = (a-b)(a+b)$ |
+| 2 | $(a+b)^2 = a^2 + 2ab + b^2$ |
+| 3 | $(a-b)^2 = a^2 - 2ab + b^2$ |
+| 4 | $(a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$ |
+| 5 | $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$ |
+| 6 | $a^3 + b^3 = (a+b)(a^2 - ab + b^2)$ |
+| 7 | $a^3 - b^3 = (a-b)(a^2 + ab + b^2)$ |
 
 ---
 
@@ -139,11 +139,11 @@
 
 **Các phương pháp thường dùng:**
 1. **Đặt nhân tử chung:** tìm nhân tử chung của tất cả các hạng tử rồi đưa ra ngoài.
-   > Ví dụ: 4x² − 8x = 4x(x − 2)
+   > Ví dụ: $4x^2 - 8x = 4x(x - 2)$
 2. **Dùng hằng đẳng thức đáng nhớ:** nhận dạng đa thức khớp với 1 trong 7 hằng đẳng thức ở trên.
-   > Ví dụ: x² − 4 = (x−2)(x+2)
+   > Ví dụ: $x^2 - 4 = (x-2)(x+2)$
 3. **Nhóm hạng tử:** nhóm các hạng tử có nhân tử chung hoặc tạo thành hằng đẳng thức, rồi tiếp tục phân tích.
-   > Ví dụ: x² − xy + x − y = x(x−y) + (x−y) = (x−y)(x+1)
+   > Ví dụ: $x^2 - xy + x - y = x(x-y) + (x-y) = (x-y)(x+1)$
 
 *(Ghi nhớ: khi phân tích, luôn thử đặt nhân tử chung trước, sau đó nhận diện hằng đẳng thức, cuối cùng mới nhóm hạng tử nếu cần.)*
 
@@ -161,9 +161,9 @@
 
 **Tứ giác ABCD:** hình gồm 4 đoạn thẳng AB, BC, CD, DA, trong đó bất kì hai đoạn thẳng nào cũng không cùng nằm trên một đường thẳng.
 
-**Tính chất cơ bản:** **Tổng 4 góc trong của một tứ giác bằng 360°.**
+**Tính chất cơ bản:** **Tổng 4 góc trong của một tứ giác bằng $360°$.**
 
-> Ví dụ: tứ giác có 3 góc lần lượt là 80°, 90°, 100° → góc còn lại = 360 − 80 − 90 − 100 = 90°.
+> Ví dụ: tứ giác có 3 góc lần lượt là $80°$, $90°$, $100° \to$ góc còn lại = $360 - 80 - 90 - 100 = 90°$.
 
 **Tứ giác lồi:** tứ giác luôn nằm trong một nửa mặt phẳng có bờ là đường thẳng chứa bất kì cạnh nào của nó (từ đây về sau, "tứ giác" mặc định là tứ giác lồi).
 
@@ -256,7 +256,7 @@ Hình chữ nhật   Hình thoi
 
 **Định lí Thalès (thuận):** Nếu một đường thẳng **song song** với một cạnh của tam giác và cắt hai cạnh còn lại thì nó định ra trên hai cạnh đó những đoạn thẳng **tương ứng tỉ lệ**.
 
-> Trong tam giác ABC, nếu DE // BC (D∈AB, E∈AC) thì: **AD/AB = AE/AC** (hoặc AD/DB = AE/EC)
+> Trong tam giác ABC, nếu $DE \parallel BC$ ($D \in AB$, $E \in AC$) thì: **$AD/AB = AE/AC$** (hoặc $AD/DB = AE/EC$)
 
 **Định lí Thalès đảo:** Nếu một đường thẳng cắt hai cạnh của tam giác và định ra trên hai cạnh đó những đoạn thẳng tương ứng tỉ lệ thì đường thẳng đó **song song** với cạnh còn lại.
 
@@ -272,9 +272,9 @@ Hình chữ nhật   Hình thoi
 
 **Định lí:** Đường trung bình của tam giác thì **song song với cạnh thứ ba và bằng nửa cạnh đó**.
 
-> Trong tam giác ABC, nếu M, N lần lượt là trung điểm AB, AC thì MN // BC và **MN = BC/2**.
+> Trong tam giác ABC, nếu M, N lần lượt là trung điểm AB, AC thì $MN \parallel BC$ và **$MN = BC/2$**.
 
-> Ví dụ: tam giác ABC có BC = 10 cm, M và N là trung điểm AB, AC → MN = 5 cm.
+> Ví dụ: tam giác ABC có $BC = 10$ cm, M và N là trung điểm AB, AC $\to MN = 5$ cm.
 
 **Ứng dụng thực tế:** tính khoảng cách gián tiếp giữa hai điểm không đo trực tiếp được (ví dụ: khoảng cách hai bờ sông), dựa vào việc dựng thêm trung điểm và đo đoạn dễ tiếp cận hơn.
 
@@ -284,10 +284,10 @@ Hình chữ nhật   Hình thoi
 
 **Định lí:** Trong tam giác, đường phân giác của một góc chia cạnh đối diện thành hai đoạn thẳng **tỉ lệ với hai cạnh kề** hai đoạn thẳng đó.
 
-> Trong tam giác ABC, nếu AD là phân giác góc A (D thuộc BC) thì: **DB/DC = AB/AC**
+> Trong tam giác ABC, nếu AD là phân giác góc A (D thuộc BC) thì: **$DB/DC = AB/AC$**
 
-> Ví dụ: tam giác ABC có AB = 6 cm, AC = 9 cm, AD là phân giác góc A (D∈BC). Nếu BC = 15 cm thì:
-> DB/DC = 6/9 = 2/3 → DB = 15 × 2/5 = 6 cm; DC = 15 × 3/5 = 9 cm.
+> Ví dụ: tam giác ABC có $AB = 6$ cm, $AC = 9$ cm, AD là phân giác góc A ($D \in BC$). Nếu $BC = 15$ cm thì:
+> $DB/DC = 6/9 = 2/3 \to DB = 15 \times 2/5 = 6$ cm; $DC = 15 \times 3/5 = 9$ cm.
 
 ---
 

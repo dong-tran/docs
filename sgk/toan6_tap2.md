@@ -15,39 +15,39 @@
 
 ## Bài 23. Mở rộng khái niệm phân số. Phân số bằng nhau
 
-**Mở rộng khái niệm:** Ở tiểu học, phân số chỉ có tử và mẫu là số tự nhiên. Nay với số nguyên, ta mở rộng: với **a, b ∈ Z, b ≠ 0**, ta gọi **a/b** là một **phân số**, trong đó a là **tử số** (tử), b là **mẫu số** (mẫu).
+**Mở rộng khái niệm:** Ở tiểu học, phân số chỉ có tử và mẫu là số tự nhiên. Nay với số nguyên, ta mở rộng: với **$a, b \in \mathbb{Z}, b \neq 0$**, ta gọi **$a/b$** là một **phân số**, trong đó a là **tử số** (tử), b là **mẫu số** (mẫu).
 
 > Ví dụ: −2/5 cũng là một phân số (đọc là "âm hai phần năm"), được hiểu là kết quả của phép chia (−2) : 5.
 
-**Hai phân số bằng nhau:** a/b = c/d **khi và chỉ khi** a × d = b × c ("nhân chéo bằng nhau").
+**Hai phân số bằng nhau:** $a/b = c/d$ **khi và chỉ khi** $a \times d = b \times c$ ("nhân chéo bằng nhau").
 
-> Ví dụ: 2/3 = 4/6 vì 2 × 6 = 3 × 4 (= 12).
+> Ví dụ: $2/3 = 4/6$ vì $2 \times 6 = 3 \times 4 (= 12)$.
 
 **Hai tính chất cơ bản của phân số:**
-1. Nhân cả tử và mẫu với cùng một số nguyên khác 0 thì được phân số bằng phân số đã cho: a/b = (a×m)/(b×m).
-2. Chia cả tử và mẫu cho cùng một ước chung của chúng thì được phân số bằng phân số đã cho: a/b = (a:n)/(b:n).
+1. Nhân cả tử và mẫu với cùng một số nguyên khác 0 thì được phân số bằng phân số đã cho: $a/b = (a\times m)/(b\times m)$.
+2. Chia cả tử và mẫu cho cùng một ước chung của chúng thì được phân số bằng phân số đã cho: $a/b = (a:n)/(b:n)$.
 
 **Rút gọn phân số:** chia cả tử và mẫu cho ƯCLN của chúng để được **phân số tối giản** (tử và mẫu không còn ước chung nào khác 1).
 
-> Ví dụ: 18/24, ƯCLN(18,24) = 6 → 18/24 = 3/4 (phân số tối giản).
+> Ví dụ: $18/24$, $\text{ƯCLN}(18,24) = 6 \to 18/24 = 3/4$ (phân số tối giản).
 
 ---
 
 ## Bài 24. So sánh phân số. Hỗn số dương
 
 **So sánh hai phân số cùng mẫu dương:** phân số nào có tử lớn hơn thì lớn hơn.
-> Ví dụ: 3/7 < 5/7 (vì 3 < 5)
+> Ví dụ: $3/7 < 5/7$ (vì $3 < 5$)
 
 **So sánh hai phân số khác mẫu:** quy đồng mẫu số (đưa về cùng mẫu dương) rồi so sánh tử.
-> Ví dụ: so sánh 2/3 và 3/4 → quy đồng: 8/12 và 9/12 → vì 8 < 9 nên 2/3 < 3/4.
+> Ví dụ: so sánh $2/3$ và $3/4 \to$ quy đồng: $8/12$ và $9/12 \to$ vì $8 < 9$ nên $2/3 < 3/4$.
 
 **Chú ý về dấu:** mọi phân số dương đều lớn hơn 0; mọi phân số âm đều nhỏ hơn 0; phân số dương luôn lớn hơn phân số âm.
 
 **Hỗn số dương:** cách viết gọn của một phân số dương lớn hơn 1, gồm phần nguyên và phần phân số.
-> Ví dụ: 7/2 = 3 và 1/2, viết là 3½ (đọc: "ba, một phần hai").
+> Ví dụ: $7/2 = 3$ và $1/2$, viết là $3\frac{1}{2}$ (đọc: "ba, một phần hai").
 
-**Đổi hỗn số ra phân số:** a b/c = (a×c + b)/c
-> Ví dụ: 2¾ = (2×4+3)/4 = 11/4
+**Đổi hỗn số ra phân số:** $a\frac{b}{c} = (a\times c + b)/c$
+> Ví dụ: $2\frac{3}{4} = (2\times 4+3)/4 = 11/4$
 
 ---
 
@@ -59,38 +59,38 @@
 ## Bài 25. Phép cộng và phép trừ phân số
 
 **Cộng, trừ hai phân số cùng mẫu:** giữ nguyên mẫu, cộng (hoặc trừ) các tử số.
-> Ví dụ: 2/7 + 3/7 = 5/7; 5/9 − 2/9 = 3/9 = 1/3
+> Ví dụ: $2/7 + 3/7 = 5/7$; $5/9 - 2/9 = 3/9 = 1/3$
 
 **Cộng, trừ hai phân số khác mẫu:** quy đồng mẫu số rồi cộng/trừ như trên.
-> Ví dụ: 1/3 + 1/4 = 4/12 + 3/12 = 7/12
+> Ví dụ: $1/3 + 1/4 = 4/12 + 3/12 = 7/12$
 
 **Tính chất phép cộng phân số:** giao hoán, kết hợp, cộng với 0, cộng với số đối bằng 0 — tương tự số nguyên.
 
-**Số đối của phân số a/b là −a/b** (hoặc a/(−b)); a/b + (−a/b) = 0.
+**Số đối của phân số $a/b$ là $-a/b$** (hoặc $a/(-b)$); $a/b + (-a/b) = 0$.
 
 ---
 
 ## Bài 26. Phép nhân và phép chia phân số
 
 **Nhân hai phân số:** nhân tử với tử, mẫu với mẫu.
-**a/b × c/d = (a×c)/(b×d)**
-> Ví dụ: 2/3 × 4/5 = 8/15
+**$a/b \times c/d = (a\times c)/(b\times d)$**
+> Ví dụ: $2/3 \times 4/5 = 8/15$
 
 **Chia hai phân số:** nhân với **phân số nghịch đảo** của số chia.
-**a/b : c/d = a/b × d/c = (a×d)/(b×c)**  (c/d ≠ 0)
-> Ví dụ: 2/3 : 4/5 = 2/3 × 5/4 = 10/12 = 5/6
+**$a/b : c/d = a/b \times d/c = (a\times d)/(b\times c)$**  ($c/d \neq 0$)
+> Ví dụ: $2/3 : 4/5 = 2/3 \times 5/4 = 10/12 = 5/6$
 
-**Phân số nghịch đảo** của a/b (a,b ≠ 0) là b/a. Tích của một phân số với nghịch đảo của nó luôn bằng 1.
+**Phân số nghịch đảo** của $a/b$ ($a,b \neq 0$) là $b/a$. Tích của một phân số với nghịch đảo của nó luôn bằng 1.
 
 ---
 
 ## Bài 27. Hai bài toán về phân số
 
-**Bài toán 1 — Tìm giá trị phân số của một số cho trước:** muốn tìm m/n của số a, ta tính **a × m/n**.
-> Ví dụ: Tìm 2/5 của 40 → 40 × 2/5 = 16.
+**Bài toán 1 — Tìm giá trị phân số của một số cho trước:** muốn tìm $m/n$ của số a, ta tính **$a \times m/n$**.
+> Ví dụ: Tìm $2/5$ của $40 \to 40 \times 2/5 = 16$.
 
-**Bài toán 2 — Tìm một số biết giá trị phân số của nó:** biết m/n của một số bằng a, muốn tìm số đó ta tính **a : m/n**.
-> Ví dụ: 2/5 của một số bằng 16, tìm số đó → 16 : 2/5 = 16 × 5/2 = 40.
+**Bài toán 2 — Tìm một số biết giá trị phân số của nó:** biết $m/n$ của một số bằng a, muốn tìm số đó ta tính **$a : m/n$**.
+> Ví dụ: $2/5$ của một số bằng 16, tìm số đó $\to 16 : 2/5 = 16 \times 5/2 = 40$.
 
 *(Ghi nhớ: hai bài toán này ngược nhau — một bài "nhân với phân số", một bài "chia cho phân số".)*
 
@@ -108,29 +108,29 @@
 
 **Khái niệm:** Phân số thập phân là phân số có mẫu là luỹ thừa của 10 (10, 100, 1000...). Mỗi phân số thập phân đều viết được dưới dạng **số thập phân**.
 
-> Ví dụ: 3/10 = 0,3 ; −27/100 = −0,27
+> Ví dụ: $3/10 = 0,3$ ; $-27/100 = -0,27$
 
 **Cấu tạo số thập phân:** gồm **phần nguyên** (trước dấu phẩy) và **phần thập phân** (sau dấu phẩy).
-> Ví dụ: số 12,45 có phần nguyên là 12, phần thập phân là 45 (nghĩa là 4 phần mười, 5 phần trăm).
+> Ví dụ: số $12,45$ có phần nguyên là 12, phần thập phân là 45 (nghĩa là 4 phần mười, 5 phần trăm).
 
 **Số đối của số thập phân:** đổi dấu, giữ nguyên phần số.
-> Ví dụ: số đối của 5,7 là −5,7.
+> Ví dụ: số đối của $5,7$ là $-5,7$.
 
 **So sánh số thập phân:** so sánh phần nguyên trước; nếu bằng nhau thì so sánh từng hàng ở phần thập phân từ trái sang phải.
-> Ví dụ: 3,25 < 3,3 (vì hàng phần mười: 2 < 3).
+> Ví dụ: $3,25 < 3,3$ (vì hàng phần mười: $2 < 3$).
 
 ---
 
 ## Bài 29. Tính toán với số thập phân
 
 **Cộng, trừ số thập phân:** đặt tính sao cho các dấu phẩy thẳng cột, rồi cộng/trừ như số tự nhiên.
-> Ví dụ: 12,5 + 3,47 = 15,97
+> Ví dụ: $12,5 + 3,47 = 15,97$
 
 **Nhân số thập phân:** nhân như số tự nhiên (bỏ qua dấu phẩy), sau đó đếm tổng số chữ số ở phần thập phân của cả hai thừa số để đặt dấu phẩy vào tích.
-> Ví dụ: 1,2 × 0,3 = 0,36 (vì 12 × 3 = 36, tổng cộng 2 chữ số thập phân)
+> Ví dụ: $1,2 \times 0,3 = 0,36$ (vì $12 \times 3 = 36$, tổng cộng 2 chữ số thập phân)
 
 **Chia số thập phân:** đưa về phép chia có số chia là số tự nhiên bằng cách nhân cả số bị chia và số chia với luỹ thừa thích hợp của 10, rồi chia bình thường.
-> Ví dụ: 6,3 : 0,7 = 63 : 7 = 9
+> Ví dụ: $6,3 : 0,7 = 63 : 7 = 9$
 
 ---
 
@@ -140,28 +140,28 @@
 - Nếu chữ số đó là **0, 1, 2, 3, 4** → giữ nguyên hàng cần làm tròn, bỏ các chữ số sau.
 - Nếu chữ số đó là **5, 6, 7, 8, 9** → tăng thêm 1 đơn vị vào hàng cần làm tròn, bỏ các chữ số sau.
 
-> Ví dụ: làm tròn 7,268 đến hàng phần trăm → nhìn chữ số hàng phần nghìn là 8 (≥5) → làm tròn thành 7,27.
+> Ví dụ: làm tròn $7,268$ đến hàng phần trăm $\to$ nhìn chữ số hàng phần nghìn là 8 ($\ge 5$) $\to$ làm tròn thành $7,27$.
 
 **Ước lượng:** làm tròn các số trong phép tính trước để tính nhanh kết quả gần đúng, kiểm tra tính hợp lí của kết quả chính xác.
-> Ví dụ: 19,8 × 5,1 ≈ 20 × 5 = 100 (ước lượng nhanh trước khi tính chính xác).
+> Ví dụ: $19,8 \times 5,1 \approx 20 \times 5 = 100$ (ước lượng nhanh trước khi tính chính xác).
 
 ---
 
 ## Bài 31. Một số bài toán về tỉ số và tỉ số phần trăm
 
-**Tỉ số của hai số a và b (b ≠ 0)** là thương a : b, viết là a/b hoặc a : b.
-> Ví dụ: tỉ số của 3 và 4 là 3/4 (hay 3 : 4).
+**Tỉ số của hai số a và b ($b \neq 0$)** là thương $a : b$, viết là $a/b$ hoặc $a : b$.
+> Ví dụ: tỉ số của 3 và 4 là $3/4$ (hay $3 : 4$).
 
-**Tỉ số phần trăm của a và b:** (a : b) × 100%, kí hiệu a% khi so với 100.
-> Ví dụ: tỉ số phần trăm của 3 và 4 là (3:4) × 100% = 75%.
+**Tỉ số phần trăm của a và b:** $(a : b) \times 100\%$, kí hiệu $a\%$ khi so với 100.
+> Ví dụ: tỉ số phần trăm của 3 và 4 là $(3:4) \times 100\% = 75\%$.
 
 **Ba bài toán cơ bản về tỉ số phần trăm:**
-1. **Tìm giá trị phần trăm của một số:** m% của a = a × m/100
-   > Ví dụ: 20% của 150 = 150 × 20/100 = 30
-2. **Tìm một số biết giá trị phần trăm của nó:** biết m% của một số là a → số đó = a : m/100
-   > Ví dụ: 20% của một số là 30 → số đó = 30 : 20/100 = 150
-3. **Tìm tỉ số phần trăm của hai số:** (a : b) × 100%
-   > Ví dụ: một lớp có 40 học sinh, 8 học sinh giỏi → tỉ lệ học sinh giỏi là (8:40) × 100% = 20%
+1. **Tìm giá trị phần trăm của một số:** $m\%$ của $a = a \times m/100$
+   > Ví dụ: $20\%$ của $150 = 150 \times 20/100 = 30$
+2. **Tìm một số biết giá trị phần trăm của nó:** biết $m\%$ của một số là a $\to$ số đó = $a : m/100$
+   > Ví dụ: $20\%$ của một số là 30 $\to$ số đó = $30 : 20/100 = 150$
+3. **Tìm tỉ số phần trăm của hai số:** $(a : b) \times 100\%$
+   > Ví dụ: một lớp có 40 học sinh, 8 học sinh giỏi $\to$ tỉ lệ học sinh giỏi là $(8:40) \times 100\% = 20\%$
 
 ---
 
@@ -200,10 +200,10 @@
 
 - **Đoạn thẳng AB** là hình gồm điểm A, điểm B và tất cả các điểm nằm giữa A và B. A, B gọi là hai **đầu mút**.
 - **Độ dài đoạn thẳng AB** là khoảng cách giữa hai điểm A và B, kí hiệu AB (một số dương).
-- Nếu M nằm giữa A và B thì **AM + MB = AB**.
+- Nếu M nằm giữa A và B thì **$AM + MB = AB$**.
 - **So sánh hai đoạn thẳng:** dựa vào so sánh độ dài của chúng.
 
-> Ví dụ: nếu AM = 3 cm, MB = 5 cm và M nằm giữa A, B thì AB = 3 + 5 = 8 cm.
+> Ví dụ: nếu $AM = 3$ cm, $MB = 5$ cm và M nằm giữa A, B thì $AB = 3 + 5 = 8$ cm.
 
 ---
 
@@ -211,9 +211,9 @@
 
 **Định nghĩa:** M là **trung điểm** của đoạn thẳng AB nếu M nằm giữa A, B **và** MA = MB (M cách đều hai đầu mút).
 
-**Công thức:** nếu M là trung điểm AB thì MA = MB = AB/2.
+**Công thức:** nếu M là trung điểm AB thì $MA = MB = AB/2$.
 
-> Ví dụ: AB = 10 cm, M là trung điểm → MA = MB = 5 cm.
+> Ví dụ: $AB = 10$ cm, M là trung điểm $\to MA = MB = 5$ cm.
 
 **Cách xác định trung điểm bằng gấp giấy:** gấp đoạn thẳng sao cho hai đầu mút trùng nhau, nếp gấp cắt đoạn thẳng tại đúng trung điểm.
 
@@ -227,7 +227,7 @@
 ## Bài 36. Góc
 
 - **Góc** là hình gồm hai tia chung gốc. Gốc chung gọi là **đỉnh của góc**, hai tia gọi là **cạnh của góc**.
-- Kí hiệu: góc xOy hoặc ∠xOy (O là đỉnh).
+- Kí hiệu: góc xOy hoặc $\angle xOy$ (O là đỉnh).
 - **Điểm nằm trong góc:** điểm nằm giữa hai cạnh của góc (trong phần "mở" của góc).
 
 **Minh hoạ:** hai kim đồng hồ tạo thành một góc có đỉnh là trục quay của kim.
@@ -243,16 +243,16 @@
 
 | Loại góc | Số đo |
 |---|---|
-| Góc nhọn | 0° < góc < 90° |
-| Góc vuông | góc = 90° |
-| Góc tù | 90° < góc < 180° |
-| Góc bẹt | góc = 180° |
+| Góc nhọn | $0° < \text{góc} < 90°$ |
+| Góc vuông | $\text{góc} = 90°$ |
+| Góc tù | $90° < \text{góc} < 180°$ |
+| Góc bẹt | $\text{góc} = 180°$ |
 
 **Hai góc kề nhau, phụ nhau, bù nhau:**
-- Hai góc **phụ nhau**: tổng số đo bằng 90°.
-- Hai góc **bù nhau**: tổng số đo bằng 180°.
+- Hai góc **phụ nhau**: tổng số đo bằng $90°$.
+- Hai góc **bù nhau**: tổng số đo bằng $180°$.
 
-> Ví dụ: góc 30° và góc 60° là hai góc phụ nhau (30° + 60° = 90°); góc 110° và góc 70° là hai góc bù nhau.
+> Ví dụ: góc $30°$ và góc $60°$ là hai góc phụ nhau ($30° + 60° = 90°$); góc $110°$ và góc $70°$ là hai góc bù nhau.
 
 ---
 
@@ -323,7 +323,7 @@
 **Công thức:**
 **Xác suất thực nghiệm = (Số lần sự kiện xảy ra) : (Tổng số lần thử)**
 
-> Ví dụ: tung đồng xu 50 lần, có 27 lần xuất hiện mặt ngửa → xác suất thực nghiệm xuất hiện mặt ngửa là 27/50 = 0,54 (tức 54%).
+> Ví dụ: tung đồng xu 50 lần, có 27 lần xuất hiện mặt ngửa $\to$ xác suất thực nghiệm xuất hiện mặt ngửa là $27/50 = 0,54$ (tức $54\%$).
 
 *(Ghi nhớ: càng thực hiện nhiều lần thử, xác suất thực nghiệm càng phản ánh chính xác khả năng xảy ra thật của sự kiện.)*
 

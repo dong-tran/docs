@@ -11,13 +11,18 @@
 
 ---
 
+
+*(Tóm tắt bằng lời văn riêng, giữ nguyên khái niệm và cấu trúc bài học của sách Toán 6 - tập 1)*
+
+---
+
 ## Bài 1. Tập hợp
 
 **Khái niệm:** Một **tập hợp** (gọi tắt là **tập**) gồm những đối tượng xác định nào đó. Mỗi đối tượng trong tập hợp gọi là một **phần tử** của tập hợp đó.
 
 - Tên tập hợp thường viết bằng chữ **in hoa**: A, B, C, M, N...
-- Nếu *x* là phần tử của tập *A*, ta viết **x ∈ A** (đọc: *x thuộc A*).
-- Nếu *y* không là phần tử của tập *A*, ta viết **y ∉ A** (đọc: *y không thuộc A*).
+- Nếu *x* là phần tử của tập *A*, ta viết $x \in A$ (đọc: *x thuộc A*).
+- Nếu *y* không là phần tử của tập *A*, ta viết $y \notin A$ (đọc: *y không thuộc A*).
 
 **Ví dụ minh hoạ:**
 > Gọi A là tập hợp các bạn ngồi ở bàn đầu lớp em. Nếu Nam ngồi bàn đầu thì "Nam ∈ A"; nếu Lan ngồi bàn cuối thì "Lan ∉ A".
@@ -27,19 +32,19 @@
 | Cách | Nội dung | Ví dụ |
 |---|---|---|
 | **1. Liệt kê phần tử** | Viết tất cả phần tử trong dấu ngoặc nhọn { }, mỗi phần tử chỉ viết một lần, thứ tự tuỳ ý | P = {0; 1; 2; 3; 4} |
-| **2. Nêu dấu hiệu đặc trưng** | Nêu tính chất chung mà mọi phần tử đều thoả mãn | P = {x ∈ N \| x < 5} |
+| **2. Nêu dấu hiệu đặc trưng** | Nêu tính chất chung mà mọi phần tử đều thoả mãn | $P = \{x \in \mathbb{N} \mid x < 5\}$ |
 
 **Chú ý quan trọng:**
-- Tập hợp số tự nhiên kí hiệu là **N** = {0; 1; 2; 3; 4;...}
-- Tập hợp số tự nhiên khác 0 kí hiệu là **N\*** = {1; 2; 3;...}
-- Viết "n ∈ N" nghĩa là "n là một số tự nhiên".
+- Tập hợp số tự nhiên kí hiệu là **$\mathbb{N}$** = $\{0; 1; 2; 3; 4; \ldots\}$
+- Tập hợp số tự nhiên khác 0 kí hiệu là **$\mathbb{N}^*$** = $\{1; 2; 3; \ldots\}$
+- Viết "$n \in \mathbb{N}$" nghĩa là "n là một số tự nhiên".
 
 **Tập hữu hạn và tập vô hạn:**
 - Tập có số phần tử đếm được, có điểm dừng → **tập hữu hạn**. Ví dụ: X = {1; 2} có 2 phần tử.
 - Tập có vô số phần tử → **tập vô hạn**. Ví dụ: N là tập vô hạn.
 
-**Giao của hai tập hợp:** Tập hợp gồm các phần tử **chung** của hai tập A và B gọi là giao của A và B, kí hiệu **A ∩ B**.
-> Minh hoạ: A = {1; 2; 3; 4}, B = {3; 4; 5; 6} → A ∩ B = {3; 4}.
+**Giao của hai tập hợp:** Tập hợp gồm các phần tử **chung** của hai tập A và B gọi là giao của A và B, kí hiệu $A \cap B$.
+> Minh hoạ: A = {1; 2; 3; 4}, B = {3; 4; 5; 6} $\to A \cap B = \{3; 4\}$.
 
 ---
 
@@ -49,7 +54,7 @@
 
 - Giá trị của một số phụ thuộc vào cả **chữ số** lẫn **vị trí (hàng)** của nó.
 - Ví dụ: số 2035 gồm 2 nghìn, 0 trăm, 3 chục, 5 đơn vị:
-  **2035 = 2×1000 + 0×100 + 3×10 + 5**
+  $2035 = 2 \times 1000 + 0 \times 100 + 3 \times 10 + 5$
 
 **Số La Mã:** Dùng 7 kí hiệu cơ bản:
 
@@ -58,7 +63,7 @@
 | 1 | 5 | 10 | 50 | 100 | 500 | 1000 |
 
 > Ví dụ: IV = 4, IX = 9, XII = 12, XX = 20.
-> Quy tắc: kí hiệu nhỏ đứng trước kí hiệu lớn thì trừ đi (IV = 5−1 = 4); kí hiệu nhỏ đứng sau thì cộng thêm (VI = 5+1 = 6).
+> Quy tắc: kí hiệu nhỏ đứng trước kí hiệu lớn thì trừ đi (IV = $5-1 = 4$); kí hiệu nhỏ đứng sau thì cộng thêm (VI = $5+1 = 6$).
 
 ---
 
@@ -80,37 +85,37 @@
 
 ## Bài 4. Phép cộng và phép trừ số tự nhiên
 
-**Phép cộng:** a + b = c (a, b: **số hạng**; c: **tổng**)
+**Phép cộng:** $a + b = c$ (a, b: **số hạng**; c: **tổng**)
 
 Tính chất:
-- Giao hoán: a + b = b + a
-- Kết hợp: (a + b) + c = a + (b + c)
-- Cộng với 0: a + 0 = 0 + a = a
+- Giao hoán: $a + b = b + a$
+- Kết hợp: $(a + b) + c = a + (b + c)$
+- Cộng với 0: $a + 0 = 0 + a = a$
 
-**Phép trừ:** a − b = c chỉ thực hiện được khi **a ≥ b** (a: **số bị trừ**, b: **số trừ**, c: **hiệu**)
+**Phép trừ:** $a - b = c$ chỉ thực hiện được khi **$a \ge b$** (a: **số bị trừ**, b: **số trừ**, c: **hiệu**)
 
-> Ví dụ: 15 − 8 = 7. Nhưng 5 − 9 không thực hiện được trong tập số tự nhiên (vì 5 < 9) — đây chính là lí do sau này cần đến số nguyên âm (sẽ học ở Chương III).
+> Ví dụ: $15 - 8 = 7$. Nhưng $5 - 9$ không thực hiện được trong tập số tự nhiên (vì $5 < 9$) — đây chính là lí do sau này cần đến số nguyên âm (sẽ học ở Chương III).
 
 **Mẹo tính nhanh:** dùng tính chất giao hoán, kết hợp để nhóm các số "tròn chục, tròn trăm" lại với nhau.
-> Ví dụ: 27 + 98 + 3 = (27 + 3) + 98 = 30 + 98 = 128
+> Ví dụ: $27 + 98 + 3 = (27 + 3) + 98 = 30 + 98 = 128$
 
 ---
 
 ## Bài 5. Phép nhân và phép chia số tự nhiên
 
-**Phép nhân:** a × b = c (a, b: **thừa số**; c: **tích**)
+**Phép nhân:** $a \times b = c$ (a, b: **thừa số**; c: **tích**)
 
 Tính chất:
-- Giao hoán: a × b = b × a
-- Kết hợp: (a × b) × c = a × (b × c)
-- Nhân với 1: a × 1 = a
-- **Phân phối của phép nhân với phép cộng:** a × (b + c) = a × b + a × c
+- Giao hoán: $a \times b = b \times a$
+- Kết hợp: $(a \times b) \times c = a \times (b \times c)$
+- Nhân với 1: $a \times 1 = a$
+- **Phân phối của phép nhân với phép cộng:** $a \times (b + c) = a \times b + a \times c$
 
 **Phép chia:**
-- **Chia hết:** a : b = c nếu a = b × c (b ≠ 0). Ta nói a chia hết cho b.
-- **Chia có dư:** a = b × q + r (0 ≤ r < b). q gọi là **thương**, r gọi là **số dư**.
+- **Chia hết:** $a : b = c$ nếu $a = b \times c$ ($b \neq 0$). Ta nói a chia hết cho b.
+- **Chia có dư:** $a = b \times q + r$ ($0 \le r < b$). q gọi là **thương**, r gọi là **số dư**.
 
-> Ví dụ: 17 : 5 → 17 = 5 × 3 + 2, vậy thương là 3, số dư là 2.
+> Ví dụ: $17 : 5 \to 17 = 5 \times 3 + 2$, vậy thương là 3, số dư là 2.
 
 ---
 
@@ -118,18 +123,18 @@ Tính chất:
 
 **Định nghĩa:** Luỹ thừa bậc n của a (n là số tự nhiên, n > 1) là tích của n thừa số bằng nhau, mỗi thừa số bằng a:
 
-**aⁿ = a × a × ... × a** (n thừa số a)
+**$a^n = a \times a \times \ldots \times a$** (n thừa số a)
 
 - a gọi là **cơ số**, n gọi là **số mũ**.
-- a² gọi là "a **bình phương**"; a³ gọi là "a **lập phương**".
+- $a^2$ gọi là "a **bình phương**"; $a^3$ gọi là "a **lập phương**".
 
-> Ví dụ: 2³ = 2 × 2 × 2 = 8; 5² = 5 × 5 = 25
+> Ví dụ: $2^3 = 2 \times 2 \times 2 = 8$; $5^2 = 5 \times 5 = 25$
 
 **Nhân, chia hai luỹ thừa cùng cơ số:**
-- aᵐ × aⁿ = aᵐ⁺ⁿ
-- aᵐ : aⁿ = aᵐ⁻ⁿ (m ≥ n, a ≠ 0)
+- $a^m \times a^n = a^{m+n}$
+- $a^m : a^n = a^{m-n}$ ($m \ge n$, $a \neq 0$)
 
-> Ví dụ: 2³ × 2² = 2⁵ = 32; 3⁵ : 3² = 3³ = 27
+> Ví dụ: $2^3 \times 2^2 = 2^5 = 32$; $3^5 : 3^2 = 3^3 = 27$
 
 ---
 
@@ -141,8 +146,8 @@ Tính chất:
 2. Nếu **không có ngoặc**: thực hiện **luỹ thừa** trước, rồi đến **nhân, chia** (trái sang phải), cuối cùng là **cộng, trừ** (trái sang phải).
 
 > Ví dụ minh hoạ:
-> 2 + 3 × 2² = 2 + 3 × 4 = 2 + 12 = 14
-> (2 + 3) × 2² = 5 × 4 = 20
+> $2 + 3 \times 2^2 = 2 + 3 \times 4 = 2 + 12 = 14$
+> $(2 + 3) \times 2^2 = 5 \times 4 = 20$
 
 *(Ghi nhớ dễ hiểu: "Ngoặc trước — Luỹ thừa sau — Nhân chia rồi mới Cộng trừ")*
 
@@ -158,18 +163,18 @@ Tính chất:
 
 ## Bài 8. Quan hệ chia hết và tính chất
 
-**Định nghĩa:** Cho hai số tự nhiên a và b (b ≠ 0). Nếu có số tự nhiên q sao cho **a = b × q** thì ta nói **a chia hết cho b**, kí hiệu **a ⋮ b**. Khi đó b gọi là **ước** của a, còn a gọi là **bội** của b.
+**Định nghĩa:** Cho hai số tự nhiên a và b (b ≠ 0). Nếu có số tự nhiên q sao cho **$a = b \times q$** thì ta nói **a chia hết cho b**, kí hiệu **$a \vdots b$**. Khi đó b gọi là **ước** của a, còn a gọi là **bội** của b.
 
-> Ví dụ: 15 = 3 × 5 → 15 ⋮ 3 và 15 ⋮ 5. Ta nói 3 và 5 là ước của 15; 15 là bội của 3 và của 5.
+> Ví dụ: $15 = 3 \times 5 \to 15 \vdots 3$ và $15 \vdots 5$. Ta nói 3 và 5 là ước của 15; 15 là bội của 3 và của 5.
 
 **Tính chất chia hết của một tổng, một hiệu:**
-- Nếu a ⋮ m và b ⋮ m thì (a + b) ⋮ m và (a − b) ⋮ m (a ≥ b)
-- Nếu a ⋮ m và b không chia hết cho m thì (a + b) không chia hết cho m
+- Nếu $a \vdots m$ và $b \vdots m$ thì $(a + b) \vdots m$ và $(a - b) \vdots m$ ($a \ge b$)
+- Nếu $a \vdots m$ và b không chia hết cho m thì $(a + b)$ không chia hết cho m
 
-> Ví dụ: 12 ⋮ 4 và 8 ⋮ 4 → (12 + 8) = 20 ⋮ 4. Nhưng 12 ⋮ 4 và 7 không chia hết cho 4 → 19 không chia hết cho 4.
+> Ví dụ: $12 \vdots 4$ và $8 \vdots 4 \to (12 + 8) = 20 \vdots 4$. Nhưng $12 \vdots 4$ và 7 không chia hết cho 4 → 19 không chia hết cho 4.
 
 **Tính chất chia hết của một tích:** Nếu một thừa số trong tích chia hết cho m thì tích cũng chia hết cho m.
-> Ví dụ: 6 ⋮ 3 → 6 × 7 = 42 cũng chia hết cho 3.
+> Ví dụ: $6 \vdots 3 \to 6 \times 7 = 42$ cũng chia hết cho 3.
 
 ---
 
@@ -177,14 +182,14 @@ Tính chất:
 
 | Chia hết cho | Dấu hiệu | Ví dụ |
 |---|---|---|
-| **2** | Chữ số tận cùng là 0, 2, 4, 6, 8 | 128 ⋮ 2 |
-| **5** | Chữ số tận cùng là 0 hoặc 5 | 435 ⋮ 5 |
-| **3** | Tổng các chữ số chia hết cho 3 | 123: 1+2+3 = 6 ⋮ 3 |
-| **9** | Tổng các chữ số chia hết cho 9 | 189: 1+8+9 = 18 ⋮ 9 |
+| **2** | Chữ số tận cùng là 0, 2, 4, 6, 8 | $128 \vdots 2$ |
+| **5** | Chữ số tận cùng là 0 hoặc 5 | $435 \vdots 5$ |
+| **3** | Tổng các chữ số chia hết cho 3 | 123: $1+2+3 = 6 \vdots 3$ |
+| **9** | Tổng các chữ số chia hết cho 9 | 189: $1+8+9 = 18 \vdots 9$ |
 
 **Minh hoạ dễ nhớ:** Để kiểm tra 2 và 5 → chỉ nhìn **chữ số cuối cùng**. Để kiểm tra 3 và 9 → **cộng tất cả chữ số lại**.
 
-> Ví dụ tổng hợp: Số 720 — tận cùng là 0 nên chia hết cho cả 2 và 5; tổng chữ số 7+2+0 = 9 nên chia hết cho cả 3 và 9.
+> Ví dụ tổng hợp: Số 720 — tận cùng là 0 nên chia hết cho cả 2 và 5; tổng chữ số $7+2+0 = 9$ nên chia hết cho cả 3 và 9.
 
 ---
 
@@ -211,7 +216,7 @@ Tính chất:
              /  \
             3    5
 ```
-→ 60 = 2 × 2 × 3 × 5 = 2² × 3 × 5
+$\to 60 = 2 \times 2 \times 3 \times 5 = 2^2 \times 3 \times 5$
 
 ---
 
@@ -225,13 +230,13 @@ Tính chất:
 2. Chọn ra các thừa số nguyên tố **chung**.
 3. Lập tích các thừa số đó, mỗi thừa số lấy với **số mũ nhỏ nhất**.
 
-> Ví dụ: 36 = 2² × 3²; 60 = 2² × 3 × 5 → ƯCLN(36, 60) = 2² × 3 = 12
+> Ví dụ: $36 = 2^2 \times 3^2$; $60 = 2^2 \times 3 \times 5 \to \text{ƯCLN}(36, 60) = 2^2 \times 3 = 12$
 
 **Hai số nguyên tố cùng nhau:** là hai số có ƯCLN bằng 1.
-> Ví dụ: ƯCLN(8, 9) = 1 → 8 và 9 là hai số nguyên tố cùng nhau.
+> Ví dụ: $\text{ƯCLN}(8, 9) = 1 \to 8$ và 9 là hai số nguyên tố cùng nhau.
 
 **Ứng dụng:** rút gọn phân số về phân số tối giản bằng cách chia cả tử và mẫu cho ƯCLN của chúng.
-> Ví dụ: 18/24, có ƯCLN(18,24) = 6 → 18/24 = 3/4.
+> Ví dụ: $18/24$, có $\text{ƯCLN}(18,24) = 6 \to 18/24 = 3/4$.
 
 ---
 
@@ -245,10 +250,10 @@ Tính chất:
 2. Chọn ra **tất cả** các thừa số nguyên tố chung và riêng.
 3. Lập tích các thừa số đó, mỗi thừa số lấy với **số mũ lớn nhất**.
 
-> Ví dụ: 12 = 2² × 3; 18 = 2 × 3² → BCNN(12, 18) = 2² × 3² = 36
+> Ví dụ: $12 = 2^2 \times 3$; $18 = 2 \times 3^2 \to \text{BCNN}(12, 18) = 2^2 \times 3^2 = 36$
 
 **Ứng dụng quan trọng: quy đồng mẫu số các phân số**, dùng BCNN của các mẫu số làm mẫu số chung.
-> Ví dụ: quy đồng 1/12 và 5/18, mẫu chung là BCNN(12,18) = 36 → 1/12 = 3/36; 5/18 = 10/36.
+> Ví dụ: quy đồng $1/12$ và $5/18$, mẫu chung là $\text{BCNN}(12,18) = 36 \to 1/12 = 3/36$; $5/18 = 10/36$.
 
 ---
 
@@ -265,12 +270,12 @@ Tính chất:
 **Vì sao cần số nguyên?** Trong tập số tự nhiên, phép trừ a − b chỉ thực hiện được khi a ≥ b. Để phép trừ luôn thực hiện được, và để biểu diễn các đại lượng "ngược chiều nhau" (nhiệt độ dưới 0°C, độ sâu dưới mực nước biển, nợ tiền...), người ta đưa thêm các **số nguyên âm**.
 
 - **Số nguyên dương:** 1, 2, 3,... (chính là các số tự nhiên khác 0, có thể viết thêm dấu + phía trước: +1, +2...)
-- **Số nguyên âm:** −1, −2, −3,...
-- **Tập hợp số nguyên**: **Z** = {...; −3; −2; −1; 0; 1; 2; 3;...}
+- **Số nguyên âm:** $-1, -2, -3, \ldots$
+- **Z** = $\{\ldots; -3; -2; -1; 0; 1; 2; 3; \ldots\}$
 
 **Trục số:** giống tia số nhưng kéo dài về bên trái điểm 0.
 ```
-<---(-3)--(-2)--(-1)---0---(1)---(2)---(3)--->
+$<---(-3)--(-2)--(-1)---0---(1)---(2)--(3)--->$
    chiều âm            gốc         chiều dương
 ```
 
@@ -278,22 +283,22 @@ Tính chất:
 > Ví dụ: số đối của 5 là −5; số đối của −7 là 7.
 
 **So sánh hai số nguyên:** trên trục số, số nào ở bên trái thì nhỏ hơn.
-> Ví dụ: −5 < −2 < 0 < 3
+> Ví dụ: $-5 < -2 < 0 < 3$
 
 ---
 
 ## Bài 14. Phép cộng và phép trừ số nguyên
 
 **Cộng hai số nguyên cùng dấu:** cộng hai giá trị tuyệt đối rồi giữ nguyên dấu chung.
-> Ví dụ: (−3) + (−5) = −(3+5) = −8
+> Ví dụ: $(-3) + (-5) = -(3+5) = -8$
 
 **Cộng hai số nguyên khác dấu:** lấy số có giá trị tuyệt đối lớn hơn trừ số có giá trị tuyệt đối nhỏ hơn, rồi đặt dấu của số có giá trị tuyệt đối lớn hơn.
-> Ví dụ: (−7) + 4 = −(7−4) = −3; 9 + (−3) = +(9−3) = 6
+> Ví dụ: $(-7) + 4 = -(7-4) = -3$; $9 + (-3) = +(9-3) = 6$
 
-**Tính chất phép cộng số nguyên:** giao hoán, kết hợp, cộng với 0, và **cộng với số đối bằng 0**: a + (−a) = 0
+**Tính chất phép cộng số nguyên:** giao hoán, kết hợp, cộng với 0, và **cộng với số đối bằng 0**: $a + (-a) = 0$
 
-**Phép trừ:** a − b = a + (−b) (trừ một số bằng cộng với số đối của nó)
-> Ví dụ: 5 − 8 = 5 + (−8) = −3
+**Phép trừ:** $a - b = a + (-b)$ (trừ một số bằng cộng với số đối của nó)
+> Ví dụ: $5 - 8 = 5 + (-8) = -3$
 
 **Minh hoạ trực quan (nhiệt độ):** Buổi sáng −2°C, đến trưa tăng thêm 6°C → nhiệt độ trưa là (−2) + 6 = 4°C.
 
@@ -305,8 +310,8 @@ Tính chất:
 - Khi bỏ dấu ngoặc có **dấu "−" đằng trước**: đổi dấu tất cả các số hạng trong ngoặc.
 
 > Ví dụ:
-> 5 + (3 − 7) = 5 + 3 − 7 = 1
-> 5 − (3 − 7) = 5 − 3 + 7 = 9
+> $5 + (3 - 7) = 5 + 3 - 7 = 1$
+> $5 - (3 - 7) = 5 - 3 + 7 = 9$
 
 *(Mẹo nhớ: dấu "+" trước ngoặc giống như "mở khoá tự do", dấu "−" trước ngoặc là "đảo ngược mọi thứ bên trong")*
 
@@ -315,10 +320,10 @@ Tính chất:
 ## Bài 16. Phép nhân số nguyên
 
 **Quy tắc dấu:**
-- **Cùng dấu** → tích **dương**: (+) × (+) = +; (−) × (−) = +
-- **Khác dấu** → tích **âm**: (+) × (−) = −; (−) × (+) = −
+- **Cùng dấu** → tích **dương**: $(+) \times (+) = +$; $(-) \times (-) = +$
+- **Khác dấu** → tích **âm**: $(+) \times (-) = -$; $(-) \times (+) = -$
 
-> Ví dụ: (−4) × (−5) = 20; (−4) × 5 = −20
+> Ví dụ: $(-4) \times (-5) = 20$; $(-4) \times 5 = -20$
 
 Tính chất: giao hoán, kết hợp, nhân với 1, phân phối với phép cộng — giống hệt số tự nhiên nhưng cần chú ý thêm quy tắc dấu.
 
@@ -326,9 +331,9 @@ Tính chất: giao hoán, kết hợp, nhân với 1, phân phối với phép c
 
 ## Bài 17. Phép chia hết. Ước và bội của một số nguyên
 
-**Định nghĩa:** Cho a, b ∈ Z (b ≠ 0). Nếu có q ∈ Z sao cho a = b × q thì ta nói a chia hết cho b, kí hiệu a ⋮ b. Khi đó b là **ước** của a, a là **bội** của b.
+**Định nghĩa:** Cho $a, b \in \mathbb{Z}$ ($b \neq 0$). Nếu có $q \in \mathbb{Z}$ sao cho $a = b \times q$ thì ta nói a chia hết cho b, kí hiệu $a \vdots b$. Khi đó b là **ước** của a, a là **bội** của b.
 
-> Ví dụ: (−12) : 4 = −3 → −12 ⋮ 4; 4 là ước của −12, −12 là bội của 4.
+> Ví dụ: $(-12) : 4 = -3 \to -12 \vdots 4$; 4 là ước của -12, -12 là bội của 4.
 
 **Chú ý:** Nếu a là bội của b thì −a cũng là bội của b; nếu b là ước của a thì −b cũng là ước của a.
 
@@ -378,15 +383,15 @@ Tính chất: giao hoán, kết hợp, nhân với 1, phân phối với phép c
 
 | Hình | Chu vi | Diện tích |
 |---|---|---|
-| Hình chữ nhật (2 cạnh a, b) | C = 2(a + b) | S = a × b |
-| Hình vuông (cạnh a) | C = 4a | S = a² |
-| Hình thoi (cạnh a; hai đường chéo d₁, d₂) | C = 4a | S = (d₁ × d₂) : 2 |
-| Hình bình hành (cạnh a; chiều cao h tương ứng) | C = 2(a + b) | S = a × h |
-| Hình thang (hai đáy a, b; chiều cao h) | C = tổng 4 cạnh | S = (a + b) × h : 2 |
+| Hình chữ nhật (2 cạnh a, b) | $C = 2(a + b)$ | $S = a \times b$ |
+| Hình vuông (cạnh a) | $C = 4a$ | $S = a^2$ |
+| Hình thoi (cạnh a; hai đường chéo $d_1, d_2$) | $C = 4a$ | $S = (d_1 \times d_2) : 2$ |
+| Hình bình hành (cạnh a; chiều cao h tương ứng) | $C = 2(a + b)$ | $S = a \times h$ |
+| Hình thang (hai đáy a, b; chiều cao h) | C = tổng 4 cạnh | $S = (a + b) \times h : 2$ |
 
 > Ví dụ minh hoạ: Một mảnh vườn hình chữ nhật có chiều dài 12 m, chiều rộng 8 m.
-> - Chu vi: 2 × (12 + 8) = 40 (m)
-> - Diện tích: 12 × 8 = 96 (m²)
+> - Chu vi: $2 \times (12 + 8) = 40$ (m)
+> - Diện tích: $12 \times 8 = 96$ (m²)
 
 ---
 
@@ -418,7 +423,7 @@ Tính chất: giao hoán, kết hợp, nhân với 1, phân phối với phép c
 
 ## Bài 22. Hình có tâm đối xứng
 
-**Khái niệm:** Một hình có **tâm đối xứng** nếu có một điểm O sao cho khi quay hình đó **180°** quanh điểm O thì hình thu được trùng khít với hình ban đầu. Điểm O gọi là **tâm đối xứng**.
+**Khái niệm:** Một hình có **tâm đối xứng** nếu có một điểm O sao cho khi quay hình đó **$180°$** quanh điểm O thì hình thu được trùng khít với hình ban đầu. Điểm O gọi là **tâm đối xứng**.
 
 **Minh hoạ dễ hình dung:** giống như con số 8 hoặc chữ cái "S" khi xoay ngược 180° vẫn giữ nguyên hình dạng.
 
