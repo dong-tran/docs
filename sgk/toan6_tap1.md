@@ -11,11 +11,6 @@
 
 ---
 
-
-*(Tóm tắt bằng lời văn riêng, giữ nguyên khái niệm và cấu trúc bài học của sách Toán 6 - tập 1)*
-
----
-
 ## Bài 1. Tập hợp
 
 **Khái niệm:** Một **tập hợp** (gọi tắt là **tập**) gồm những đối tượng xác định nào đó. Mỗi đối tượng trong tập hợp gọi là một **phần tử** của tập hợp đó.
