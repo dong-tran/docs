@@ -89,9 +89,6 @@ $x_{1,2} = (-b' \pm \sqrt{\Delta'}) / a$ — giúp tính toán gọn hơn khi b 
 
 ### Luyện tập chung & Bài tập cuối chương VI
 Ôn hàm số y=ax², cách giải phương trình bậc hai một ẩn, định lí Viète và ứng dụng, kĩ năng lập phương trình bậc hai từ bài toán thực tế (diện tích, chuyển động, năng suất...).
--e 
----
-
 
 ---
 
@@ -134,9 +131,6 @@ $x_{1,2} = (-b' \pm \sqrt{\Delta'}) / a$ — giúp tính toán gọn hơn khi b 
 
 ### Bài tập cuối chương VII
 Ôn cách lập bảng tần số, tần số tương đối (cả dạng đơn và ghép nhóm), vẽ và đọc các biểu đồ tương ứng. Dạng bài phổ biến: phân tích số liệu thực tế (điểm số, chiều cao, thời gian...) để rút ra nhận xét, so sánh.
--e 
----
-
 
 ---
 
@@ -173,9 +167,6 @@ $x_{1,2} = (-b' \pm \sqrt{\Delta'}) / a$ — giúp tính toán gọn hơn khi b 
 
 ### Luyện tập chung
 Ôn không gian mẫu, cách xác định và tính xác suất của biến cố trong các mô hình xác suất đơn giản (tung đồng xu, xúc xắc, rút thẻ/bài, quay số...).
--e 
----
-
 
 ---
 
@@ -238,9 +229,6 @@ $x_{1,2} = (-b' \pm \sqrt{\Delta'}) / a$ — giúp tính toán gọn hơn khi b 
 
 ### Luyện tập chung & Bài tập cuối chương IX
 Ôn góc nội tiếp và hệ quả, đường tròn ngoại tiếp - nội tiếp tam giác, điều kiện tứ giác nội tiếp, tính chất và công thức góc của đa giác đều. Dạng bài phổ biến: chứng minh tứ giác nội tiếp, tính số đo góc, xác định tâm đường tròn ngoại tiếp/nội tiếp.
--e 
----
-
 
 ---
 
@@ -294,6 +282,3 @@ Hình cầu tâm O, bán kính R là tập hợp tất cả các điểm trong k
 
 ### Luyện tập chung & Bài tập cuối chương X
 Ôn công thức diện tích, thể tích của hình trụ, hình nón, hình cầu. Dạng bài phổ biến: tính thể tích/diện tích vật thể thực tế (thùng, lon, nón, quả bóng...), bài toán liên quan đến chứa/đựng chất lỏng.
--e 
----
-

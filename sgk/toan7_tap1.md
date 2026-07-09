@@ -87,9 +87,6 @@ Nếu $a + b = c$ thì **$a = c - b$**
 
 ### Luyện tập chung & Bài tập cuối chương I
 Ôn tập hợp số hữu tỉ, so sánh, 4 phép tính, luỹ thừa, thứ tự thực hiện phép tính và quy tắc chuyển vế. Dạng bài phổ biến: tính giá trị biểu thức có nhiều phép tính hỗn hợp, tìm x trong đẳng thức chứa số hữu tỉ.
--e 
----
-
 
 ---
 
@@ -144,9 +141,6 @@ $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$
 
 ### Luyện tập chung & Bài tập cuối chương II
 Ôn số thập phân vô hạn tuần hoàn, số vô tỉ, căn bậc hai số học, tập hợp số thực và quan hệ bao hàm giữa các tập số, giá trị tuyệt đối. Dạng bài phổ biến: nhận biết loại số, tính căn bậc hai, so sánh số thực, tính giá trị biểu thức chứa giá trị tuyệt đối.
--e 
----
-
 
 ---
 
@@ -206,9 +200,6 @@ $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$
 
 ### Luyện tập chung & Bài tập cuối chương III
 Ôn các loại góc đặc biệt, tia phân giác, dấu hiệu nhận biết và tính chất hai đường thẳng song song, tiên đề Euclid, cấu trúc chứng minh định lí. Dạng bài phổ biến: tính số đo góc, chứng minh hai đường thẳng song song, trình bày chứng minh hình học đơn giản theo cấu trúc GT-KL.
--e 
----
-
 
 ---
 
@@ -274,9 +265,6 @@ Nhờ có sẵn 1 góc vuông bằng nhau, tam giác vuông có thêm các trư�
 
 ### Luyện tập chung & Bài tập cuối chương IV
 Ôn tổng góc trong tam giác, các trường hợp bằng nhau của tam giác (thường và vuông), tam giác cân, đường trung trực. Dạng bài phổ biến: chứng minh hai tam giác bằng nhau, chứng minh tam giác cân, tính độ dài/góc dựa vào tính chất tam giác bằng nhau.
--e 
----
-
 
 ---
 
@@ -320,6 +308,3 @@ Nhờ có sẵn 1 góc vuông bằng nhau, tam giác vuông có thêm các trư�
 
 ### Luyện tập chung & Bài tập cuối chương V
 Ôn cách thu thập, phân loại dữ liệu, đọc và vẽ biểu đồ hình quạt tròn, biểu đồ đoạn thẳng. Dạng bài phổ biến: đọc số liệu từ biểu đồ có sẵn, tính tỉ lệ phần trăm, nhận xét xu hướng thay đổi dữ liệu theo thời gian.
--e 
----
-

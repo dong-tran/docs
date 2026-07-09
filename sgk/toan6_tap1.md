@@ -155,9 +155,6 @@ Tính chất:
 
 ### Luyện tập chung & Bài tập cuối chương I
 Ôn lại toàn bộ 7 bài: đọc-viết tập hợp, ghi số tự nhiên, so sánh thứ tự, bốn phép tính, luỹ thừa và thứ tự thực hiện phép tính; dạng bài thường gặp là tính giá trị biểu thức, tìm x trong đẳng thức có phép tính hỗn hợp.
--e 
----
-
 
 ---
 
@@ -259,9 +256,6 @@ $\to 60 = 2 \times 2 \times 3 \times 5 = 2^2 \times 3 \times 5$
 
 ### Luyện tập chung & Bài tập cuối chương II
 Ôn tập quan hệ chia hết, dấu hiệu chia hết cho 2/3/5/9, số nguyên tố - hợp số, ƯCLN, BCNN. Dạng bài phổ biến: bài toán chia đều số lượng đồ vật (dùng ƯCLN) hoặc bài toán về các sự kiện lặp lại theo chu kì (dùng BCNN — ví dụ "hai bạn cùng trực nhật vào ngày nào").
--e 
----
-
 
 ---
 
@@ -341,9 +335,6 @@ Tính chất: giao hoán, kết hợp, nhân với 1, phân phối với phép c
 
 ### Luyện tập chung & Bài tập cuối chương III
 Ôn lại tập hợp số nguyên, 4 phép tính cộng-trừ-nhân-chia trên số nguyên, quy tắc dấu ngoặc, ước-bội của số nguyên. Dạng bài phổ biến: tính giá trị biểu thức có dấu ngoặc lồng nhau, bài toán thực tế về nhiệt độ, độ cao/độ sâu, tài khoản (nợ - có).
--e 
----
-
 
 ---
 
@@ -397,9 +388,6 @@ Tính chất: giao hoán, kết hợp, nhân với 1, phân phối với phép c
 
 ### Luyện tập chung & Bài tập cuối chương IV
 Ôn nhận diện hình, tính chất cạnh - góc - đường chéo, công thức chu vi và diện tích. Dạng bài phổ biến: tính diện tích mảnh đất/mảnh vườn, cắt ghép hình để tính diện tích hình phức tạp bằng cách chia thành các hình cơ bản đã học.
--e 
----
-
 
 ---
 

@@ -78,9 +78,6 @@ $$a_2x + b_2y = c_2$$
 
 ### Bài tập cuối chương I
 Ôn khái niệm phương trình/hệ phương trình bậc nhất hai ẩn, hai phương pháp giải hệ (thế và cộng đại số), kĩ năng lập hệ phương trình từ bài toán thực tế (chuyển động, năng suất, tuổi, hình học...).
--e 
----
-
 
 ---
 
@@ -135,9 +132,6 @@ $$a_2x + b_2y = c_2$$
 
 ### Bài tập cuối chương II
 Ôn phương trình quy về bậc nhất một ẩn (kể cả có ẩn ở mẫu), tính chất bất đẳng thức, giải và biểu diễn tập nghiệm bất phương trình bậc nhất một ẩn. Dạng bài phổ biến: giải phương trình/bất phương trình, bài toán thực tế dùng bất phương trình để tìm điều kiện (ví dụ: "cần ít nhất bao nhiêu sản phẩm để có lãi").
--e 
----
-
 
 ---
 
@@ -206,9 +200,6 @@ $$a_2x + b_2y = c_2$$
 
 ### Luyện tập chung & Bài tập cuối chương III
 Ôn định nghĩa và tính chất căn bậc hai, căn bậc ba, các phép biến đổi căn thức (đưa thừa số ra/vào trong căn, khử mẫu, trục căn thức). Dạng bài phổ biến: rút gọn biểu thức chứa căn, tính giá trị biểu thức, giải phương trình đơn giản chứa căn thức.
--e 
----
-
 
 ---
 
@@ -261,9 +252,6 @@ Xét tam giác ABC vuông tại A, với các cạnh góc vuông b, c, cạnh hu
 
 ### Luyện tập chung & Bài tập cuối chương IV
 Ôn định nghĩa tỉ số lượng giác, các hệ thức về cạnh và góc trong tam giác vuông. Dạng bài phổ biến: giải tam giác vuông, bài toán đo đạc thực tế (chiều cao, khoảng cách) bằng cách dựng tam giác vuông và đo góc.
--e 
----
-
 
 ---
 
@@ -353,6 +341,3 @@ Cho hai đường tròn (O; R) và (O'; r) với R ≥ r, gọi d = OO' (khoản
 
 ### Luyện tập chung & Bài tập cuối chương V
 Ôn khái niệm đường tròn, cung - dây, công thức độ dài cung và diện tích hình quạt/vành khuyên, các vị trí tương đối (đường thẳng - đường tròn, hai đường tròn) cùng tính chất tiếp tuyến. Dạng bài phổ biến: chứng minh vuông góc/tiếp tuyến, tính độ dài - diện tích liên quan đến cung tròn trong bài toán thực tế.
--e 
----
-

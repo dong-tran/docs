@@ -81,9 +81,6 @@
 
 ### Luyện tập chung & Bài tập cuối chương I
 Ôn đơn thức, đa thức, thu gọn, 4 phép tính cộng-trừ-nhân-chia đa thức/đơn thức. Dạng bài phổ biến: rút gọn biểu thức đại số, tính giá trị biểu thức khi biết giá trị biến.
--e 
----
-
 
 ---
 
@@ -151,9 +148,6 @@
 
 ### Luyện tập chung & Bài tập cuối chương II
 Ôn 7 hằng đẳng thức đáng nhớ và 3 phương pháp phân tích đa thức thành nhân tử. Dạng bài phổ biến: rút gọn, tính nhanh giá trị biểu thức bằng hằng đẳng thức, phân tích đa thức thành nhân tử, giải phương trình bậc cao đơn giản bằng cách đưa về tích.
--e 
----
-
 
 ---
 
@@ -246,9 +240,6 @@ Hình chữ nhật   Hình thoi
 
 ### Luyện tập chung & Bài tập cuối chương III
 Ôn định nghĩa, tính chất, dấu hiệu nhận biết của hình thang cân, hình bình hành, hình chữ nhật, hình thoi, hình vuông. Dạng bài phổ biến: chứng minh tứ giác là một loại hình đặc biệt dựa vào dấu hiệu nhận biết.
--e 
----
-
 
 ---
 
@@ -293,9 +284,6 @@ Hình chữ nhật   Hình thoi
 
 ### Luyện tập chung & Bài tập cuối chương IV
 Ôn định lí Thalès (thuận và đảo), đường trung bình của tam giác, tính chất đường phân giác. Dạng bài phổ biến: tính độ dài đoạn thẳng dựa vào tỉ lệ, chứng minh hai đoạn thẳng song song hoặc bằng nhau, bài toán đo đạc thực tế.
--e 
----
-
 
 ---
 
@@ -343,6 +331,3 @@ Hình chữ nhật   Hình thoi
 
 ### Luyện tập chung & Bài tập cuối chương V
 Ôn cách thu thập, phân loại dữ liệu, lựa chọn loại biểu đồ phù hợp để biểu diễn, và kĩ năng đọc — phân tích số liệu từ biểu đồ có sẵn. Dạng bài phổ biến: đọc biểu đồ và trả lời câu hỏi, vẽ biểu đồ từ bảng số liệu cho trước.
--e 
----
-

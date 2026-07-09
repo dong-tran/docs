@@ -79,9 +79,6 @@ $$W = W_đ + W_t$$
 
 ### Ôn tập chương I
 Nội dung trọng tâm: động năng, thế năng (trọng trường và đàn hồi), cơ năng và định luật bảo toàn cơ năng, công và công suất. Dạng bài phổ biến: tính Wđ, Wt, W tại các vị trí khác nhau, tính công và công suất trong tình huống thực tế.
--e 
----
-
 
 ---
 
@@ -153,9 +150,6 @@ Nội dung trọng tâm: động năng, thế năng (trọng trường và đàn
 
 ### Ôn tập chương II
 Nội dung trọng tâm: khúc xạ ánh sáng, phản xạ toàn phần và ứng dụng cáp quang, lăng kính và tán sắc ánh sáng, thấu kính hội tụ - phân kì và tính chất ảnh, kính lúp. Dạng bài phổ biến: vẽ đường truyền tia sáng, xác định tính chất ảnh qua thấu kính, giải thích hiện tượng quang học trong đời sống.
--e 
----
-
 
 ---
 
@@ -209,9 +203,6 @@ $$A = P \times t = U \times I \times t$$
 
 ### Ôn tập chương III
 Nội dung trọng tâm: định luật Ohm, mạch điện nối tiếp và song song (công thức tính điện trở tương đương), công suất điện và năng lượng điện tiêu thụ. Dạng bài phổ biến: tính I, U, R trong mạch điện; tính công suất và điện năng tiêu thụ, tính tiền điện thực tế.
--e 
----
-
 
 ---
 
@@ -243,9 +234,6 @@ Nội dung trọng tâm: định luật Ohm, mạch điện nối tiếp và son
 
 ### Ôn tập chương IV
 Nội dung trọng tâm: hiện tượng cảm ứng điện từ, nguyên tắc tạo ra dòng điện xoay chiều (máy phát điện), các tác dụng của dòng điện xoay chiều. Dạng bài phổ biến: giải thích hiện tượng cảm ứng điện từ, nêu nguyên lí hoạt động máy phát điện, phân biệt tác dụng của dòng điện xoay chiều.
--e 
----
-
 
 ---
 
@@ -280,9 +268,6 @@ Nội dung trọng tâm: hiện tượng cảm ứng điện từ, nguyên tắc
 
 ### Ôn tập chương V
 Nội dung trọng tâm: vòng năng lượng trên Trái Đất, đặc điểm và hạn chế của năng lượng hoá thạch, các dạng năng lượng tái tạo và vai trò của chúng. Dạng bài phổ biến: so sánh năng lượng tái tạo và không tái tạo, đề xuất giải pháp sử dụng năng lượng bền vững.
--e 
----
-
 
 ---
 
@@ -344,9 +329,6 @@ Nội dung trọng tâm: vòng năng lượng trên Trái Đất, đặc điểm
 
 ### Ôn tập chương VI
 Nội dung trọng tâm: tính chất vật lí - hoá học của kim loại, dãy hoạt động hoá học và ý nghĩa, nguyên tắc tách kim loại, hợp kim, sự khác biệt cơ bản giữa kim loại và phi kim. Dạng bài phổ biến: viết phương trình phản ứng của kim loại, so sánh mức độ hoạt động dựa vào dãy hoạt động hoá học.
--e 
----
-
 
 ---
 
@@ -403,9 +385,6 @@ Nội dung trọng tâm: tính chất vật lí - hoá học của kim loại, d
 
 ### Ôn tập chương VII
 Nội dung trọng tâm: khái niệm hợp chất hữu cơ, đặc điểm cấu tạo, alkane và phản ứng thế, alkene và phản ứng cộng - trùng hợp, các loại nhiên liệu và cách sử dụng an toàn. Dạng bài phổ biến: viết phương trình phản ứng cháy/cộng/thế, phân biệt alkane và alkene bằng dung dịch bromine.
--e 
----
-
 
 ---
 
@@ -449,9 +428,6 @@ Nội dung trọng tâm: khái niệm hợp chất hữu cơ, đặc điểm c�
 
 ### Ôn tập chương VIII
 Nội dung trọng tâm: tính chất, điều chế và ứng dụng của ethylic alcohol và acetic acid, phản ứng ester hoá giữa chúng, tác hại của lạm dụng rượu bia. Dạng bài phổ biến: viết phương trình phản ứng, nhận biết acetic acid bằng phản ứng với muối carbonate hoặc quỳ tím.
--e 
----
-
 
 ---
 
@@ -521,9 +497,6 @@ Nội dung trọng tâm: tính chất, điều chế và ứng dụng của ethy
 
 ### Ôn tập chương IX
 Nội dung trọng tâm: lipid, carbohydrate (glucose, saccharose, tinh bột, cellulose), protein, polymer — cấu tạo, tính chất đặc trưng và vai trò trong đời sống. Dạng bài phổ biến: nhận biết tinh bột bằng iodine, giải thích vai trò dinh dưỡng của các nhóm chất, tác hại của rác thải nhựa (polymer).
--e 
----
-
 
 ---
 
@@ -566,9 +539,6 @@ Nội dung trọng tâm: lipid, carbohydrate (glucose, saccharose, tinh bột, c
 
 ### Ôn tập chương X
 Nội dung trọng tâm: tài nguyên khoáng sản từ vỏ Trái Đất, khai thác và ứng dụng đá vôi trong công nghiệp silicate (xi măng, thuỷ tinh, gốm sứ), khai thác nhiên liệu hoá thạch, chu trình carbon và nguyên nhân - hậu quả của sự ấm lên toàn cầu.
--e 
----
-
 
 ---
 
@@ -642,9 +612,6 @@ DNA (gene) --phiên mã--> RNA --dịch mã--> Protein --biểu hiện--> Tính 
 
 ### Ôn tập chương XI
 Nội dung trọng tâm: quy luật phân li và phân li độc lập của Mendel, cấu tạo DNA - RNA, nguyên tắc bổ sung, quá trình tái bản DNA - phiên mã - dịch mã, mối quan hệ gene-tính trạng, đột biến gene. Dạng bài phổ biến: bài tập lai một/hai cặp tính trạng theo Mendel, xác định trình tự mạch bổ sung của DNA/RNA.
--e 
----
-
 
 ---
 
@@ -700,9 +667,6 @@ Nội dung trọng tâm: quy luật phân li và phân li độc lập của Men
 
 ### Ôn tập chương XII
 Nội dung trọng tâm: nhiễm sắc thể và bộ NST, nguyên phân - giảm phân và ý nghĩa, cơ chế xác định giới tính, di truyền liên kết, đột biến cấu trúc và số lượng NST. Dạng bài phổ biến: xác định số NST qua các kì phân bào, giải thích cơ chế di truyền giới tính, nhận biết các dạng đột biến NST.
--e 
----
-
 
 ---
 
@@ -733,9 +697,6 @@ Nội dung trọng tâm: nhiễm sắc thể và bộ NST, nguyên phân - giả
 
 ### Ôn tập chương XIII
 Nội dung trọng tâm: một số bệnh - tật di truyền ở người, vai trò tư vấn di truyền, tác hại hôn nhân cận huyết, các ứng dụng của công nghệ di truyền trong nông nghiệp - y học - pháp y.
--e 
----
-
 
 ---
 
@@ -775,6 +736,3 @@ Nội dung trọng tâm: một số bệnh - tật di truyền ở người, vai
 
 ### Ôn tập chương XIV
 Nội dung trọng tâm: khái niệm tiến hoá, chọn lọc tự nhiên và chọn lọc nhân tạo, các nhân tố tiến hoá, quá trình hình thành loài mới, sự phát sinh và phát triển sự sống trên Trái Đất qua các giai đoạn địa chất.
--e 
----
-

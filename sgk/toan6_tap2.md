@@ -98,9 +98,6 @@
 
 ### Luyện tập chung & Bài tập cuối chương VI
 Ôn 4 phép tính trên phân số, hai bài toán về phân số. Dạng bài phổ biến: bài toán thực tế tính phần việc hoàn thành, tính tiền, tính khối lượng theo tỉ lệ phân số.
--e 
----
-
 
 ---
 
@@ -167,9 +164,6 @@
 
 ### Luyện tập chung & Bài tập cuối chương VII
 Ôn số thập phân, 4 phép tính, làm tròn - ước lượng, tỉ số và tỉ số phần trăm. Dạng bài phổ biến: tính tiền lãi/giảm giá, tính phần trăm hoàn thành công việc, bài toán thực tế liên quan đến tiền tệ và đo lường.
--e 
----
-
 
 ---
 
@@ -258,9 +252,6 @@
 
 ### Luyện tập chung & Bài tập cuối chương VIII
 Ôn cách vẽ và nhận biết điểm, đường thẳng, tia, đoạn thẳng, trung điểm, góc và số đo góc. Dạng bài phổ biến: vẽ hình theo yêu cầu, tính độ dài đoạn thẳng khi biết điểm nằm giữa, tính số đo góc còn lại khi biết tổng hai góc.
--e 
----
-
 
 ---
 
@@ -339,6 +330,3 @@
 - **Hoạt động thể thao nào được yêu thích nhất trong hè?:** vận dụng thu thập dữ liệu và vẽ biểu đồ để khảo sát thực tế.
 - **Vẽ hình đơn giản với GeoGebra:** thực hành vẽ điểm, đường thẳng, đoạn thẳng, góc bằng phần mềm.
 - **Bài tập ôn tập cuối năm:** tổng hợp kiến thức toàn bộ chương trình Toán 6 (cả hai tập).
--e 
----
-

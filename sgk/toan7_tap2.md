@@ -76,9 +76,6 @@ Nếu **$a/b = c/d = e/f$** thì:
 
 ### Luyện tập chung & Bài tập cuối chương VI
 Ôn tỉ lệ thức, tính chất dãy tỉ số bằng nhau, đại lượng tỉ lệ thuận và tỉ lệ nghịch. Dạng bài phổ biến: chia một đại lượng theo tỉ lệ cho trước, bài toán thực tế về tỉ lệ thuận (giá cả - số lượng, năng suất) và tỉ lệ nghịch (thời gian - vận tốc, số người - thời gian hoàn thành công việc).
--e 
----
-
 
 ---
 
@@ -141,9 +138,6 @@ Nếu **$a/b = c/d = e/f$** thì:
 
 ### Luyện tập chung & Bài tập cuối chương VII
 Ôn biểu thức đại số, đa thức một biến, 4 phép tính (cộng, trừ, nhân, chia) trên đa thức một biến, tìm nghiệm đa thức. Dạng bài phổ biến: tính giá trị đa thức, thực hiện phép tính đa thức, kiểm tra một số có phải là nghiệm của đa thức hay không.
--e 
----
-
 
 ---
 
@@ -183,9 +177,6 @@ Nếu **$a/b = c/d = e/f$** thì:
 
 ### Luyện tập chung & Bài tập cuối chương VIII
 Ôn phân biệt ba loại biến cố (chắc chắn, không thể, ngẫu nhiên) và cách tính xác suất đơn giản của biến cố ngẫu nhiên. Dạng bài phổ biến: xác định loại biến cố trong tình huống thực tế, tính xác suất khi tung đồng xu/xúc xắc/rút thẻ.
--e 
----
-
 
 ---
 
@@ -260,9 +251,6 @@ Nói cách khác: **mỗi cạnh của tam giác luôn nhỏ hơn tổng hai c�
 
 ### Luyện tập chung & Bài tập cuối chương IX
 Ôn quan hệ góc-cạnh đối diện, đường vuông góc-đường xiên, bất đẳng thức tam giác, 4 đường đồng quy trong tam giác (trung tuyến, phân giác, trung trực, đường cao). Dạng bài phổ biến: so sánh góc/cạnh trong tam giác, kiểm tra điều kiện tạo thành tam giác, chứng minh tính chất liên quan đến trọng tâm/trực tâm/tâm nội tiếp - ngoại tiếp.
--e 
----
-
 
 ---
 
@@ -311,6 +299,3 @@ Là hình hộp chữ nhật đặc biệt có **6 mặt đều là hình vuông
 
 ### Luyện tập & Bài tập cuối chương X
 Ôn công thức diện tích xung quanh, diện tích toàn phần, thể tích của hình hộp chữ nhật, hình lập phương, hình lăng trụ đứng tam giác và tứ giác. Dạng bài phổ biến: tính thể tích/diện tích vật thể thực tế (hộp, bể nước, khối gỗ...), so sánh dung tích các vật đựng.
--e 
----
-

@@ -66,9 +66,6 @@
 
 ### Luyện tập chung & Bài tập cuối chương VI
 Ôn định nghĩa, tính chất, rút gọn - quy đồng phân thức, 4 phép tính trên phân thức đại số. Dạng bài phổ biến: rút gọn biểu thức chứa phân thức, tính giá trị biểu thức, tìm điều kiện xác định.
--e 
----
-
 
 ---
 
@@ -143,9 +140,6 @@
 
 ### Luyện tập chung & Bài tập cuối chương VII
 Ôn phương trình bậc nhất một ẩn, lập phương trình giải toán, khái niệm hàm số, hàm số bậc nhất và đồ thị, hệ số góc. Dạng bài phổ biến: giải phương trình, vẽ đồ thị hàm số bậc nhất, xét vị trí tương đối hai đường thẳng, bài toán thực tế (chuyển động, tài chính) dùng hàm số bậc nhất.
--e 
----
-
 
 ---
 
@@ -186,9 +180,6 @@
 
 ### Luyện tập chung & Bài tập cuối chương VIII
 Ôn kết quả có thể, kết quả thuận lợi, công thức tính xác suất, mối liên hệ giữa xác suất thực nghiệm và xác suất lí thuyết. Dạng bài phổ biến: tính xác suất trong các trò chơi (xúc xắc, bài, bốc thăm, quay số), so sánh xác suất thực nghiệm với xác suất lí thuyết.
--e 
----
-
 
 ---
 
@@ -257,9 +248,6 @@ Vì tam giác vuông đã có sẵn 1 góc vuông bằng nhau, nên các trườ
 
 ### Luyện tập chung & Bài tập cuối chương IX
 Ôn định nghĩa và các trường hợp đồng dạng của tam giác (thường và vuông), định lí Pythagore, khái niệm hình đồng dạng. Dạng bài phổ biến: chứng minh hai tam giác đồng dạng, tính độ dài đoạn thẳng dựa vào tỉ số đồng dạng, đo chiều cao/khoảng cách bằng ứng dụng tam giác đồng dạng.
--e 
----
-
 
 ---
 
@@ -304,6 +292,3 @@ Vì tam giác vuông đã có sẵn 1 góc vuông bằng nhau, nên các trườ
 
 ### Luyện tập chung & Bài tập cuối chương X
 Ôn cấu tạo, công thức diện tích xung quanh - toàn phần - thể tích của hình chóp tam giác đều và hình chóp tứ giác đều. Dạng bài phổ biến: tính diện tích vật liệu cần dùng, tính thể tích không gian của các vật thể hình chóp trong thực tế (kim tự tháp, lều trại, mái nhà...).
--e 
----
-

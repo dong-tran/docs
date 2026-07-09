@@ -119,9 +119,6 @@ $$C_M = \frac{n}{V}$$
 
 ### Ôn tập chương I
 Nội dung trọng tâm: biến đổi vật lí/hoá học, phản ứng hoá học và năng lượng, mol - tỉ khối, dung dịch - nồng độ, định luật bảo toàn khối lượng, cân bằng và tính theo phương trình hoá học, các yếu tố ảnh hưởng tốc độ phản ứng.
--e 
----
-
 
 ---
 
@@ -207,9 +204,6 @@ Nội dung trọng tâm: biến đổi vật lí/hoá học, phản ứng hoá h
 
 ### Ôn tập chương II
 Nội dung trọng tâm: định nghĩa và tính chất hoá học của acid, base, oxide, muối; mối quan hệ giữa 4 loại hợp chất (acid ↔ oxide acid, base ↔ oxide base, muối là sản phẩm trung hoà); vai trò và cách dùng hợp lí phân bón hoá học.
--e 
----
-
 
 ---
 
@@ -279,9 +273,6 @@ Nội dung trọng tâm: định nghĩa và tính chất hoá học của acid, 
 
 ### Ôn tập chương III
 Nội dung trọng tâm: công thức khối lượng riêng, áp suất chất rắn - chất lỏng - khí quyển, lực đẩy Ác-si-mét và điều kiện vật nổi/chìm. Dạng bài phổ biến: tính D, p, F(đẩy) từ số liệu cho trước; giải thích các hiện tượng thực tế liên quan.
--e 
----
-
 
 ---
 
@@ -313,9 +304,6 @@ Nội dung trọng tâm: công thức khối lượng riêng, áp suất chất 
 
 ### Ôn tập chương IV
 Nội dung trọng tâm: khái niệm moment lực, công thức M = F×d, quy tắc cân bằng đòn bẩy và các ứng dụng thực tế của đòn bẩy. Dạng bài phổ biến: tính moment lực, xác định lực cần dùng khi biết cánh tay đòn.
--e 
----
-
 
 ---
 
@@ -388,9 +376,6 @@ Nội dung trọng tâm: khái niệm moment lực, công thức M = F×d, quy t
 
 ### Ôn tập chương V
 Nội dung trọng tâm: nhiễm điện do cọ xát, dòng điện - nguồn điện, sơ đồ mạch điện, cường độ dòng điện - hiệu điện thế và quy luật của chúng trong mạch nối tiếp/song song. Dạng bài phổ biến: vẽ sơ đồ mạch điện, tính I hoặc U còn thiếu trong mạch nối tiếp/song song.
--e 
----
-
 
 ---
 
@@ -441,9 +426,6 @@ Nội dung trọng tâm: nhiễm điện do cọ xát, dòng điện - nguồn �
 
 ### Ôn tập chương VI
 Nội dung trọng tâm: nội năng, năng lượng nhiệt, ba hình thức truyền nhiệt (dẫn nhiệt, đối lưu, bức xạ nhiệt), sự nở vì nhiệt của các chất và ứng dụng thực tế. Dạng bài phổ biến: giải thích các hiện tượng truyền nhiệt/nở vì nhiệt trong đời sống.
--e 
----
-
 
 ---
 
@@ -580,9 +562,6 @@ Nội dung trọng tâm: nội năng, năng lượng nhiệt, ba hình thức tr
 
 ### Ôn tập chương VII
 Nội dung trọng tâm: các hệ cơ quan chính của cơ thể người (vận động, tiêu hoá, tuần hoàn, hô hấp, bài tiết, thần kinh, nội tiết, da) — cấu tạo, chức năng, và biện pháp bảo vệ sức khoẻ mỗi hệ cơ quan; cơ chế điều hoà môi trường trong (cân bằng nội môi) và điều hoà thân nhiệt.
--e 
----
-
 
 ---
 
